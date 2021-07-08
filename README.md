@@ -1,2 +1,2 @@
-# YAP
-Yet Another Platformer for the GBA
+# Yet Another Platformer
+A game for the Game Boy Advance.
