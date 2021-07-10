@@ -190,7 +190,8 @@ inline int run_menu() {
 
 	// If player selected "PLAY", check if there are any saved games
 	if (selection == 0) {
-		selection = (__gamepak[0]) ? __gamepak[0] : LEVEL_1_0;	
+		selection = (__gamepak[0]) ? __gamepak[0] : (uint8_t)LEVEL_1_0;	
+		selection = (selection >= END_GAME) ? LEVEL_1_0 : selection;
 	}
 
 	return selection;
