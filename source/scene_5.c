@@ -29,6 +29,7 @@ inline void init_level_2_0()
 	// Save progress
 	__gamepak[0] = LEVEL_2_0;
 
+	dma_stop_transfer_1();
 	SND_CNT = SND_MASTER = 0;
 	T0_CNT = T1_CNT = T2_CNT = 0;
 

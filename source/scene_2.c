@@ -16,6 +16,7 @@
 inline void init_controls()
 {
 	/* RESET SOUND */
+	dma_stop_transfer_1();
 	SND_CNT = SND_MASTER = 0;
 	T0_CNT = T1_CNT = T2_CNT = 0;
 

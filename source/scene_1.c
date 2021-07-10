@@ -58,6 +58,7 @@ inline void init_menu() {
 	__dispcnt = DC_RENDER_BG0 | DC_RENDER_BG1 | DC_RENDER_BG2 | DC_RENDER_OBJ | DC_OM_1D | DC_MODE_0;
 
 	/* RESET SOUND */
+	dma_stop_transfer_1();
 	SND_CNT = SND_MASTER = 0;
 	T0_CNT = T1_CNT = T2_CNT = 0;
 
