@@ -1,0 +1,74 @@
+\RequirePackage{tikz} 
+\RequirePackage{xcolor}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%DIBUJOS para las cabeceras y pies con tizzh
+
+
+\renewcommand{\headheight}{15pt}
+
+\newcommand*\tikzheadeven{%
+\begin{tikzpicture}[remember picture,overlay]
+\node[yshift=-2cm] at (current page.north west)
+{\begin{tikzpicture}[remember picture, overlay]
+\fill[Color1 Color2
+] (0,-0.1cm) rectangle
+(\paperwidth,0.1cm);
+\ifthenelse{\equal{\rightmark}{}}{}{
+\node[anchor=west,xshift=.1\paperwidth,rectangle,
+rounded corners=15pt,inner sep=11pt,
+fill=Color2]
+{\color{Color1}\leftmark};
+}
+\end{tikzpicture}
+};
+\end{tikzpicture}}
+
+\newcommand*\tikzheadodd{%
+\begin{tikzpicture}[remember picture,overlay]
+\node[yshift=-2cm] at (current page.north west)
+{\begin{tikzpicture}[remember picture, overlay]
+\fill[Color2
+] (0,-0.1cm) rectangle
+(\paperwidth,0.1cm);
+\ifthenelse{\equal{\rightmark}{}}{}{
+\node[anchor=east,xshift=.9\paperwidth,rectangle,
+rounded corners=15pt,inner sep=11pt,
+fill=ThemeColor2]
+{\color{Color1}\rightmark};}
+\end{tikzpicture}
+};
+\end{tikzpicture}}
+
+%%
+%% Page feet (even and odd)
+%%
+\newcommand*\tikzfooteven{%
+\begin{tikzpicture}[remember picture,overlay]
+\node at (current page.south west)
+{\begin{tikzpicture}[remember picture, overlay]
+\fill[Color2] (0,1.1cm) rectangle
+(\paperwidth,1.3cm);
+\node[anchor=west,xshift=.1\paperwidth,
+yshift=1.2cm,circle,
+rounded corners=15pt,inner sep=0.1cm,minimum size=1.1cm,
+fill=Color2]
+{\color{Color1}\thepage};
+\end{tikzpicture}
+};
+\end{tikzpicture}}
+
+\newcommand*\tikzfootodd[2]{%
+\begin{tikzpicture}[remember picture,overlay]
+\node at (current page.south west)
+{\begin{tikzpicture}[remember picture, overlay]
+\fill[#2
+] (0,1.1cm) rectangle
+(\paperwidth,1.3cm);
+\node[anchor=east,xshift=.9\paperwidth,
+yshift=1.2cm,circle,
+rounded corners=15pt,inner sep=0.1cm,minimum size=1.1cm,
+fill=#2]
+{\color{#1}\thepage};
+\end{tikzpicture}
+};
+\end{tikzpicture}}

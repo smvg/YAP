@@ -1,0 +1,354 @@
+\RequirePackage[a4paper]{geometry}
+\RequirePackage{tikz} 
+\RequirePackage{fancyhdr}
+\RequirePackage{ifthen}
+\RequirePackage{xcolor}
+\RequirePackage[explicit]{titlesec}  %para los titulos
+\RequirePackage{afterpage}
+\RequirePackage{transparent}
+\RequirePackage[scaled=0.95]{helvet}
+
+
+
+%%%%%%%%%%%%%%%% Dimensiones
+% PDF 
+\geometry{
+  a4paper,% redundant if already in \documentclass
+  left=25mm,
+  right=25mm,
+  top=30mm,
+  bottom=40mm,
+  bindingoffset=0mm,
+  heightrounded,% better use it
+}
+
+% Copia impresa
+\DeclareOption{print}{
+\geometry{
+  a4paper,% redundant if already in \documentclass
+  left=25mm,
+  right=25mm,
+  top=30mm,
+  bottom=40mm,
+  bindingoffset=10mm,
+  heightrounded,% better use it
+  }
+}
+%\ProcessOptions\relax
+
+\setlength{\headheight}{52pt}
+
+\setlength{\parindent}{0.25in}	% Distancia entre dos párrafos 
+\setlength{\textfloatsep}{0.5cm}	% Distance below/above any float (figure or table)
+
+
+%%
+%% distancias
+%%
+\parskip=0.15cm    % espacio entre lineas
+\abovecaptionskip=0.15cm
+\renewcommand{\baselinestretch}{1.05} %espaciado
+\itemsep=0pt  %Separación en itemize
+\topsep =0pt  %Espacio vertical extra a \parskippor encima y pordebajo de la listas
+
+%%%%%%%%%% Tipos de letra
+
+%\renewcommand{\familydefault}{\rmdefault} % usar tipos sin serifa 
+\renewcommand{\familydefault}{\sfdefault} %
+%\renewcommand{\familydefault}{\ttdefault} %
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%% para evitar líneas viudas %%%%%%%%%%%%%%%%%%%%%%%%
+\clubpenalty=10000
+\widowpenalty=10000
+
+%%
+%% Definicion de los colores
+%%
+
+%\definecolor{Color1}{rgb}{0.27, 0.51, 0.71}
+\definecolor{Color2}{rgb}{0.0, 0.22, 0.62}
+\definecolor{Color1}{rgb}{0.0, 0.22, 0.62}%{0.48, 0.41, 0.93}
+\definecolor{BackgroundColor}{rgb}{1,0.88,0.21}
+
+\g@addto@macro{\UrlBreaks}{\UrlOrds}  %PAra salto lineas url
+
+\def\clearpage{% No ponga cabeceras en paginas en blanco
+  \ifvmode
+    \ifnum \@dbltopnum =\m@ne
+      \ifdim \pagetotal <\topskip
+        \hbox{}
+      \fi
+    \fi
+  \fi
+  \newpage
+  \thispagestyle{empty}
+  \write\m@ne{}
+  \vbox{}
+  \penalty -\@Mi
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  Definiciones generales 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+
+\renewcommand{\author}[1]{
+\def\alumno{#1}}
+\newcommand{\titulo}[1]{
+\def\tituloTFG{#1}}
+\newcommand{\subTitulo}[1]{
+\def\subTituloTFG{#1}}
+\newcommand{\universidad}[1]{
+\def\university{#1}}
+\newcommand{\estudios}[1]{
+\def\estudios{#1}}
+\newcommand{\director}[1]{
+\def\director{#1}}
+\newcommand{\direct}[1]{
+\def\direct{#1}} %Director 2
+\newcommand{\curso}[1]{
+\def\curso{#1}}
+
+\newcommand\blankpage{% Creo que no se usa
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+ 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+%%Entornos y comandos personalizados 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+% ---- Dedicatoria
+\newenvironment{dedicatoria}
+{
+   \cleardoublepage
+   \thispagestyle{empty}
+   \vspace*{\stretch{1}}
+   \hfill\begin{minipage}[t]{0.66\textwidth}
+   \raggedright
+}
+{
+   \end{minipage}
+   \vspace*{\stretch{3}}
+   \clearpage
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+%% Macro para crear la portada
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%5
+\newcommand{\portada}{
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture,overlay]
+\node (fondo) [rectangle] 
+at (current page.center)
+          {\parbox[b][\paperheight]{\paperwidth}{
+           \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{Figuras/logos/TFG_template}
+          }};
+\node (titulo) [rectangle,text width=0.55\paperwidth,text centered, xshift=10pt] 
+at (fondo)
+          {\parbox{0.71\paperwidth}{\centering 
+          \fontsize{45}{50} \selectfont \tituloTFG \\[8cm]
+          }};
+        \node [xshift=-150pt, yshift=-255-\hoffset,right] at (titulo) {\textbf{\LARGE Curso: \curso}};
+        \node [xshift=-150pt, yshift=-330-\hoffset, right] at (titulo) {\textbf{\LARGE\alumno}};
+        \node [xshift=250pt, yshift=-380-\hoffset,left] at (titulo) {\textbf{\LARGE\director}};
+        \node [xshift=250pt, yshift=-400-\hoffset,left] at (titulo) {\textbf{\LARGE\direct}};
+  \end{tikzpicture}
+}
+
+
+
+%%%%%%%%%%%%%%%%% MArca de agua
+%-------------------------------------------------------------------------------
+% AGUA A UNA CARA
+%-------------------------------------------------------------------------------
+\newcommand\agua{
+\put(250,-320){  %quitar para que aparezca centrado
+%\put(50,-20){  %esto para que este centrado, esta puesto a ojo
+\parbox[b][\paperheight]{\paperwidth}{  %
+\vfill
+%\centering  %descomentar con put para centrado
+{\transparent{0.08}\includegraphics[width=18cm,height=\paperheight,keepaspectratio,angle=0]{Figuras/logos/escudoazul.png}}
+\vfill}}}
+
+
+%---------------------------------------------------------------------------------
+% AGUA A DOS CARAS 
+%---------------------------------------------------------------------------------
+\newcommand\agualeft{
+\put(142,-300){
+\parbox[b][\paperheight]{\paperwidth}{
+\vfill
+\centering
+{\transparent{0.06}\includegraphics[width=30cm,height=\paperheight,keepaspectratio,angle=0]{Figuras/logos/escudoazul.png}}
+\vfill}}}
+%------------------------------------------------------------------------
+\newcommand\aguaright{
+\put(-412,-300){
+\parbox[b][\paperheight]{\paperwidth}{
+\vfill
+\centering
+{\transparent{0.06}\includegraphics[width=30cm,height=\paperheight,keepaspectratio,angle=0]{Figuras/logos/escudoazul}}
+\vfill}}}
+
+%%%%
+
+
+\newcommand\marcagua{
+ \ClearShipoutPicture
+    \AddToShipoutPicture{\agua}    
+}
+
+\DeclareOption{doble}{
+\renewcommand\marcagua{
+ \ClearShipoutPicture
+ \AddToShipoutPicture{\ifthenelse{\isodd{\thepage}}{\aguaright}{\agualeft}}  
+}
+}
+\ProcessOptions\relax
+
+%%%%%%%%%%%%%5 Títulos coloreados Se pueden diferenciar segun tipo
+%%
+%% formatos para los titulos
+%%
+\titleformat{\section}
+{\normalfont\bfseries\scshape\color{Color2}} %\Large
+{\thesection}{1em}{#1}
+\titlespacing{\section}
+{0pt}{3.5ex plus .1ex minus .2ex}{1.5ex minus .1ex}
+
+\titleformat{\subsection}
+{\normalfont\bfseries\color{Color2}} %\large
+{\thesubsection}{1em}{#1}
+\titlespacing{\subsection}
+{0pt}{1.5ex plus .1ex minus .2ex}{1.5ex minus .1ex}
+ 
+% \titleformat{\subsubsection}
+%{\normalfont\bfseries}
+%{}{1em}{#1}
+%\titlespacing{\subsubsection}
+%{0pt}{0ex}{0ex}
+
+%%  Cabecera de los capitulos
+
+\addto\captionsspanish{\renewcommand{\chaptername}{}}  % quita la palabra capitulo del pie
+
+\titleformat{\chapter}
+  {\gdef\chapterlabel{}}
+  {\gdef\chapterlabel{\thechapter\ }}{0pt}
+  {   \begin{flushright}
+         {\normalfont\huge\bfseries\scshape\color{Color1}
+          \chapterlabel #1  \thispagestyle{plain}\\ \HRule
+         }
+       \end{flushright}
+  }
+\titlespacing*{\chapter}{0pt}{40pt}{0pt}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Cabeceras o pies de página
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\newcommand{\HRule}{\color{Color1}\rule{\linewidth}{0.8mm}}  
+\newcommand{\FRule}{\color{Color1}\rule{\linewidth}{0.8mm}}  
+
+
+%%%%%%%%%%%%% Pies y cabeceras de libro
+
+\fancypagestyle{cab}{ 
+\fancyhf{}
+\fancyhead[R]{{} \includegraphics[width=0.2\textwidth]{Figuras/logos/logo_peque_R} }
+\fancyhead[L] {{\color{Color1} \footnotesize \leftmark}}
+\fancyhead[C]{ {}} % texto centro de la cabecera
+\fancyfoot[C]{ {}} % texto centro del pie/si se elemina se genera número de pagina
+\fancyfoot[R]{\color{Color1} \thepage} % texto izda. del pie páginas pares
+\fancyfoot[L]{ \footnotesize \color{Color1} {\rightmark} }
+\renewcommand{\headrulewidth}{0.0 mm} % grosor de la línea de la cabecera, 
+\renewcommand{\footrulewidth}{0.0 mm} % grosor de la línea del pie
+%%%%% Linea completa de la parte superior
+\renewcommand{\headrule}{\HRule}
+\renewcommand{\footrule}{\FRule}
+}
+
+\fancypagestyle{empty}{ % paginas sin nada en la parte superior ni inferior
+\fancyhf{}
+\fancyhead[L,R,C]{{}}
+\fancyfoot[L,R,C]{{}}
+\renewcommand{\headrulewidth}{0.0 mm} % grosor de la línea de la cabecera, 
+\renewcommand{\footrulewidth}{0.0 mm} % grosor de la línea del pie
+\renewcommand{\headrule}{}
+\renewcommand{\footrule}{}
+}
+
+\fancypagestyle{plain}{ % paginas sin nada en la parte superior
+\fancyhf{}
+\fancyhead[L,R,C]{{} }
+\fancyfoot[C]{ {}} % texto centro del pie/si se elemina se genera número de pagina
+\fancyfoot[R]{\color{Color1} \thepage} % texto izda. del pie páginas pares
+\fancyfoot[L]{\footnotesize \color{Color1} {\leftmark }} 
+\renewcommand{\headrulewidth}{0.0 mm} % grosor de la línea de la cabecera, 
+\renewcommand{\footrulewidth}{0.0 mm} % grosor de la línea del pie
+\renewcommand{\footrule}{\FRule}
+}
+
+
+\DeclareOption{doble}{
+\fancypagestyle{cab}{ 
+\fancyhf{}
+\fancyhead[LE]{{} \includegraphics[width=0.2\textwidth]{Figuras/logos/logo_peque_L} }
+\fancyhead[RO]{{} \includegraphics[width=0.2\textwidth]{Figuras/logos/logo_peque_R} }
+\fancyhead[RE]{{\color{Color1} \footnotesize \leftmark} }
+\fancyhead[LO] {{\color{Color1} \footnotesize \rightmark}}
+\fancyhead[C]{ {}} % texto centro de la cabecera
+
+\fancyfoot[C]{ {}} % texto centro del pie/si se elemina se genera número de pagina
+\fancyfoot[RO,LE]{{\color{Color1} \thepage}} % texto izda. del pie páginas pares
+\fancyfoot[RE]{{ \footnotesize \color{Color1} {\alumno}} }
+\fancyfoot[LO]{{ \footnotesize \color{Color1} {\estudios \\ \curso} }}
+\renewcommand{\headrulewidth}{0.0 mm} % grosor de la línea de la cabecera, 
+\renewcommand{\footrulewidth}{0.0 mm} % grosor de la línea del pie
+%%%%% Linea completa de la parte superior
+\renewcommand{\headrule}{\HRule}
+\renewcommand{\footrule}{\FRule}
+}
+
+\fancypagestyle{empty}{ % paginas sin nada en la parte superior ni inferior
+\fancyhf{}
+\fancyhead[LE,RO,RE,LO,C]{{}}
+\fancyfoot[LE,RO,RE,LO,C]{{}}
+\renewcommand{\headrule}{} %%%%% quitar Linea completa de la parte inferior
+\renewcommand{\headrulewidth}{0.0 mm} % grosor de la línea de la cabecera, 
+\renewcommand{\footrulewidth}{0.0 mm} % grosor de la línea del pie
+\renewcommand{\headrule}{}
+\renewcommand{\footrule}{}
+}
+
+\fancypagestyle{plain}{ % paginas sin nada en la parte superior
+\fancyhf{}
+\fancyhead[LE,RO,RE,LO,CO,CE]{{} }
+\fancyfoot[C]{ {}} % texto centro del pie/si se elemina se genera número de pagina
+\fancyfoot[RO,LE]{\color{Color1} \thepage} % texto izda. del pie páginas pares
+\fancyfoot[RE]{ \footnotesize \color{Color1} {\alumno}} 
+\fancyfoot[LO]{\footnotesize \color{Color1} {\estudios\\ \curso} } 
+\renewcommand{\headrulewidth}{0.0 mm} % grosor de la línea de la cabecera, 
+\renewcommand{\footrulewidth}{0.0 mm} % grosor de la línea del pie
+\renewcommand{\footrule}{\FRule}
+}
+}
+\ProcessOptions\relax
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%DIBUJOS para las cabeceras y pies con tizzh
+
+

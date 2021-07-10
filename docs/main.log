@@ -1,0 +1,4559 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.25)  9 JUL 2021 19:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main
+(./main.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/share/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/bk11.clo
+File: bk11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count188
+\U@D=\dimen139
+\l@babelnohyphens=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count189
+
+(/usr/share/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count190
+))
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip49
+\thm@postskip=\skip50
+\thm@headsep=\skip51
+\dth@everypar=\toks24
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen140
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks26
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks27
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks28
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks30
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/dvips.def
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(/usr/share/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count269
+\rotFPtop=\skip55
+\rotFPbot=\skip56
+\rot@float@box=\box49
+\rot@mess@toks=\toks31
+)
+(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen151
+\WF@size=\dimen152
+\c@WF@wrappedlines=\count270
+\WF@box=\box50
+\WF@everypar=\toks32
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count271
+\float@exts=\toks33
+\float@box=\box51
+\@float@everytoks=\toks34
+\@floatcapt=\box52
+)
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count272
+\c@continuedfloat=\count273
+Package caption Info: float package is loaded.
+Package caption Info: rotating package is loaded.
+Package caption Info: wrapfig package is loaded.
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count274
+\c@subtable=\count275
+)
+(/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count276
+\multirow@dima=\skip58
+\bigstrutjot=\dimen160
+)
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count277
+\mult@box=\box53
+\multicol@leftmargin=\dimen161
+\c@unbalance=\count278
+\c@collectmore=\count279
+\doublecol@number=\count280
+\multicoltolerance=\count281
+\multicolpretolerance=\count282
+\full@width=\dimen162
+\page@free=\dimen163
+\premulticols=\dimen164
+\postmulticols=\dimen165
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen166
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@gfirstbox=\box58
+\mult@firstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count283
+\c@columnbadness=\count284
+\c@finalcolumnbadness=\count285
+\last@try=\dimen167
+\multicolovershoot=\dimen168
+\multicolundershoot=\dimen169
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count286
+)
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count287
+\calc@Bcount=\count288
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
+\calc@Askip=\skip61
+\calc@Bskip=\skip62
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count289
+\calc@Cskip=\skip63
+)
+(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen172
+\ESO@tempdimb=\dimen173
+
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen174
+\AM@pageheight=\dimen175
+\AM@fboxrule=\dimen176
+
+(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count290
+\AM@pagebox=\box99
+\AM@global@opts=\toks35
+\AM@pagecnt=\count291
+\AM@toc@title=\toks36
+\c@AM@survey=\count292
+\AM@templatesizebox=\box100
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(/usr/share/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen177
+\Hy@linkcounter=\count293
+\Hy@pagecounter=\count294
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count295
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 4073.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count296
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen178
+
+(/usr/share/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count297
+\Field@Width=\dimen179
+\Fld@charsize=\dimen180
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring ON on input line 6093.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(/usr/share/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count298
+\c@Item=\count299
+\c@Hfootnote=\count300
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(/usr/share/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count301
+\c@bookmark@seq@number=\count302
+
+(/usr/share/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip64
+)
+(/usr/share/texmf-dist/tex/latex/emptypage/emptypage.sty
+Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty 
+pages
+)
+(/usr/share/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+
+(/usr/share/texmf-dist/tex/latex/everysel/everysel.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(/usr/share/texmf-dist/tex/latex/everysel/everysel-2011-10-28.sty))
+\CenteringLeftskip=\skip65
+\RaggedLeftLeftskip=\skip66
+\RaggedRightLeftskip=\skip67
+\CenteringRightskip=\skip68
+\RaggedLeftRightskip=\skip69
+\RaggedRightRightskip=\skip70
+\CenteringParfillskip=\skip71
+\RaggedLeftParfillskip=\skip72
+\RaggedRightParfillskip=\skip73
+\JustifyingParfillskip=\skip74
+\CenteringParindent=\skip75
+\RaggedLeftParindent=\skip76
+\RaggedRightParindent=\skip77
+\JustifyingParindent=\skip78
+)
+(/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count303
+\c@@ppsavesec=\count304
+\c@@ppsaveapp=\count305
+)
+(/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip79
+\bibsep=\skip80
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count306
+) (./UAL.sty
+(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count307
+\Gm@cntv=\count308
+\c@Gm@tempcnt=\count309
+\Gm@bindingoffset=\dimen181
+\Gm@wd@mp=\dimen182
+\Gm@odd@mp=\dimen183
+\Gm@even@mp=\dimen184
+\Gm@layoutwidth=\dimen185
+\Gm@layoutheight=\dimen186
+\Gm@layouthoffset=\dimen187
+\Gm@layoutvoffset=\dimen188
+\Gm@dimlist=\toks37
+)
+(/usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks38
+\pgfutil@tempdima=\dimen189
+\pgfutil@tempdimb=\dimen190
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box101
+)
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks39
+\pgfkeys@temptoks=\toks40
+
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks41
+))
+\pgf@x=\dimen191
+\pgf@y=\dimen192
+\pgf@xa=\dimen193
+\pgf@ya=\dimen194
+\pgf@xb=\dimen195
+\pgf@yb=\dimen196
+\pgf@xc=\dimen197
+\pgf@yc=\dimen198
+\pgf@xd=\dimen199
+\pgf@yd=\dimen256
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count310
+\c@pgf@countb=\count311
+\c@pgf@countc=\count312
+\c@pgf@countd=\count313
+\t@pgf@toka=\toks42
+\t@pgf@tokb=\toks43
+\t@pgf@tokc=\toks44
+\pgf@sys@id@count=\count314
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count315
+\pgfsyssoftpath@bigbuffer@items=\count316
+)
+(/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen257
+\pgfmath@count=\count317
+\pgfmath@box=\box102
+\pgfmath@toks=\toks45
+\pgfmath@stack@operand=\toks46
+\pgfmath@stack@operation=\toks47
+)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code
+.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.te
+x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics
+.code.tex))) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count318
+)) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen258
+\pgf@picmaxx=\dimen259
+\pgf@picminy=\dimen260
+\pgf@picmaxy=\dimen261
+\pgf@pathminx=\dimen262
+\pgf@pathmaxx=\dimen263
+\pgf@pathminy=\dimen264
+\pgf@pathmaxy=\dimen265
+\pgf@xx=\dimen266
+\pgf@xy=\dimen267
+\pgf@yx=\dimen268
+\pgf@yy=\dimen269
+\pgf@zx=\dimen270
+\pgf@zy=\dimen271
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen272
+\pgf@path@lasty=\dimen273
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen274
+\pgf@shorten@start@additional=\dimen275
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box103
+\pgf@hbox=\box104
+\pgf@layerbox@main=\box105
+\pgf@picture@serial@count=\count319
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen276
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen277
+\pgf@pt@y=\dimen278
+\pgf@pt@temp=\dimen279
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen280
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen281
+\pgf@sys@shading@range@num=\count320
+\pgf@shadingcount=\count321
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box106
+))
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box107
+)
+(/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen282
+\pgf@nodesepend=\dimen283
+)
+(/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen284
+\pgffor@skip=\dimen285
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
+))
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/share/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count322
+\pgfplotmarksize=\dimen286
+)
+\tikz@lastx=\dimen287
+\tikz@lasty=\dimen288
+\tikz@lastxsaved=\dimen289
+\tikz@lastysaved=\dimen290
+\tikz@lastmovetox=\dimen291
+\tikz@lastmovetoy=\dimen292
+\tikzleveldistance=\dimen293
+\tikzsiblingdistance=\dimen294
+\tikz@figbox=\box108
+\tikz@figbox@bg=\box109
+\tikz@tempbox=\box110
+\tikz@tempbox@bg=\box111
+\tikztreelevel=\count323
+\tikznumberofchildren=\count324
+\tikznumberofcurrentchild=\count325
+\tikz@fig@count=\count326
+ (/usr/share/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count327
+\pgfmatrixcurrentcolumn=\count328
+\pgf@matrix@numberofcolumns=\count329
+)
+\tikz@expandcount=\count330
+
+(/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))) (/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip81
+\f@nch@O@elh=\skip82
+\f@nch@O@erh=\skip83
+\f@nch@O@olh=\skip84
+\f@nch@O@orh=\skip85
+\f@nch@O@elf=\skip86
+\f@nch@O@erf=\skip87
+\f@nch@O@olf=\skip88
+\f@nch@O@orf=\skip89
+)
+(/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box112
+\beforetitleunit=\skip90
+\aftertitleunit=\skip91
+\ttl@plus=\dimen295
+\ttl@minus=\dimen296
+\ttl@toksa=\toks50
+\titlewidth=\dimen297
+\titlewidthlast=\dimen298
+\titlewidthfirst=\dimen299
+)
+(/usr/share/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks51
+\AP@partial=\box113
+\AP@footins=\box114
+)
+(/usr/share/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+)
+(/usr/share/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+)) (./codigo.sty
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count331
+\lst@gtempboxa=\box115
+\lst@token=\toks52
+\lst@length=\count332
+\lst@currlwidth=\dimen300
+\lst@column=\count333
+\lst@pos=\count334
+\lst@lostspace=\dimen301
+\lst@width=\dimen302
+\lst@newlines=\count335
+\lst@lineno=\count336
+\lst@maxwidth=\dimen303
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count337
+\lst@skipnumbers=\count338
+\lst@framebox=\box116
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+))
+(/usr/share/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip92
+\LTright=\skip93
+\LTpre=\skip94
+\LTpost=\skip95
+\LTchunksize=\count339
+\LTcapwidth=\dimen304
+\LT@head=\box117
+\LT@firsthead=\box118
+\LT@foot=\box119
+\LT@lastfoot=\box120
+\LT@cols=\count340
+\LT@rows=\count341
+\c@LT@tables=\count342
+\c@LT@chunks=\count343
+\LT@p@ftn=\toks53
+)
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks54
+\verbatim@line=\toks55
+\verbatim@in@stream=\read4
+)
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(/usr/share/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box121
+)
+(/usr/share/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks56
+\footnotemargin=\dimen305
+\c@pp@next@reset=\count344
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+(/usr/share/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
+)
+(/usr/share/texmf-dist/tex/latex/tablefootnote/tablefootnote.sty
+Package: tablefootnote 2014/01/26 v1.1c Table foot notes (HMM)
+
+(/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty
+Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
+
+(/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+))
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count345
+))
+(/usr/share/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count346
+\algocf@hangindent=\skip96
+
+(/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count347
+)
+(/usr/share/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/usr/share/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip97
+\skiplinenumber=\skip98
+\skiprule=\skip99
+\skiphlne=\skip100
+\skiptext=\skip101
+\skiplength=\skip102
+\algomargin=\skip103
+\skipalgocfslide=\skip104
+\algowidth=\dimen306
+\inoutsize=\dimen307
+\inoutindent=\dimen308
+\interspacetitleruled=\dimen309
+\interspacealgoruled=\dimen310
+\interspacetitleboxruled=\dimen311
+\algocf@ruledwidth=\skip105
+\algocf@inoutbox=\box122
+\algocf@inputbox=\box123
+\AlCapSkip=\skip106
+\AlCapHSkip=\skip107
+\algoskipindent=\skip108
+\algocf@nlbox=\box124
+\algocf@hangingbox=\box125
+\algocf@untilbox=\box126
+\algocf@skipuntil=\skip109
+\algocf@capbox=\box127
+\algocf@lcaptionbox=\skip110
+\algoheightruledefault=\skip111
+\algoheightrule=\skip112
+\algotitleheightruledefault=\skip113
+\algotitleheightrule=\skip114
+\c@algocfline=\count348
+\c@algocfproc=\count349
+\c@algocf=\count350
+\algocf@algoframe=\box128
+\algocf@algobox=\box129
+)
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 10
+6.
+
+(/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 106.
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count351
+\l__pdf_internal_box=\box130
+) (./main.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+
+
+LaTeX Warning: Label `fig:blending_1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:blending_1' multiply defined.
+
+
+LaTeX Warning: Label `fig:blending_2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:blending_2' multiply defined.
+
+
+LaTeX Warning: Label `lst:ap_map' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Info: Redefining \. on input line 106.
+LaTeX Info: Redefining \% on input line 106.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+ (/usr/share/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count352
+\scratchdimen=\dimen312
+\scratchbox=\box131
+\nofMPsegments=\count353
+\nofMParguments=\count354
+\everyMPshowfont=\toks57
+\MPscratchCnt=\count355
+\MPscratchDim=\dimen313
+\MPnumerator=\count356
+\makeMPintoPDFobject=\count357
+\everyMPtoPDFconversion=\toks58
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+Package hyperref Info: Link coloring ON on input line 106.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count358
+)
+LaTeX Info: Redefining \ref on input line 106.
+LaTeX Info: Redefining \pageref on input line 106.
+LaTeX Info: Redefining \nameref on input line 106.
+
+(./main.out) (./main.out)
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 106.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: twoside heightrounded 
+* h-part:(L,W,R)=(71.13188pt, 426.79137pt, 71.13188pt)
+* v-part:(T,H,B)=(85.35826pt, 645.87756pt, 113.81102pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79137pt
+* \textheight=650.20029pt
+* \oddsidemargin=27.31464pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-58.78552pt
+* \headheight=52.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=116.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count359
+<Figuras/logos/TFG_template.pdf, id=324, 597.61269pt x 845.1374pt>
+File: Figuras/logos/TFG_template.pdf Graphic file (type pdf)
+<use Figuras/logos/TFG_template.pdf>
+Package pdftex.def Info: Figuras/logos/TFG_template.pdf  used on input line 109
+.
+(pdftex.def)             Requested size: 597.54738pt x 845.04507pt.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 42.74986pt on input line 109.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 109
+.
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 109
+.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (95.60344pt too wide) in paragraph at lines 109--109
+ [][]$[]$ 
+ []
+
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 10.40245pt on input line 109.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 16.41594pt on input line 109.
+[1
+Non-PDF special ignored!
+<special> papersize=597.50787pt,845.04684pt
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Figuras/logos/TFG_templa
+te.pdf>] [2
+
+]
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 19.70294pt on input line 114.
+ [3] (./indicesyrefe.tex [4
+
+
+]
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 19.70294pt on input line 14.
+LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
+(Font)              scaled to size 19.70294pt on input line 14.
+ (./main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 3.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 5.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 9.49997pt on input line 31.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 34.
+LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
+(Font)              scaled to size 10.40245pt on input line 34.
+ [5]
+<Figuras/logos/logo_peque_L.png, id=439, 335.45325pt x 128.3997pt>
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 71.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+ [6 <./Figuras/logos/logo_peque_L.png>]
+Overfull \hbox (1.12079pt too wide) detected at line 80
+ []\T1/phv/m/n/10 102
+ []
+
+
+Overfull \hbox (1.12079pt too wide) detected at line 81
+ []\T1/phv/m/n/10 105
+ []
+
+
+Overfull \hbox (1.12079pt too wide) detected at line 82
+ []\T1/phv/m/n/10 110
+ []
+
+
+Overfull \hbox (1.12079pt too wide) detected at line 83
+ []\T1/phv/m/n/10 111
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+<Figuras/logos/logo_peque_R.png, id=459, 335.45325pt x 128.3997pt>
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 15.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+ [7 <./Figuras/logos/logo_peque_R.png>] [8
+
+] (./main.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 8.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 10.40245pt on input line 8.
+ [9]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 66.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 66.
+LaTeX Info: Redefining \% on input line 66.
+ [10]
+Overfull \hbox (1.22725pt too wide) detected at line 85
+ []\T1/phv/m/n/10.95 100
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 86
+ []\T1/phv/m/n/10.95 100
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 87
+ []\T1/phv/m/n/10.95 100
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 88
+\T1/phv/m/n/10.95 A.10. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 88
+ []\T1/phv/m/n/10.95 101
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 89
+\T1/phv/m/n/10.95 A.11. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 89
+ []\T1/phv/m/n/10.95 101
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 90
+\T1/phv/m/n/10.95 A.12. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 90
+ []\T1/phv/m/n/10.95 102
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 91
+\T1/phv/m/n/10.95 A.13. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 91
+ []\T1/phv/m/n/10.95 103
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 92
+\T1/phv/m/n/10.95 A.14. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 92
+ []\T1/phv/m/n/10.95 103
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 93
+\T1/phv/m/n/10.95 A.15. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 93
+ []\T1/phv/m/n/10.95 103
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 94
+\T1/phv/m/n/10.95 A.16. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 94
+ []\T1/phv/m/n/10.95 104
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 95
+\T1/phv/m/n/10.95 A.17. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 95
+ []\T1/phv/m/n/10.95 104
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 96
+\T1/phv/m/n/10.95 A.18. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 96
+ []\T1/phv/m/n/10.95 104
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 97
+\T1/phv/m/n/10.95 A.19. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 97
+ []\T1/phv/m/n/10.95 104
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 98
+\T1/phv/m/n/10.95 A.20. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 98
+ []\T1/phv/m/n/10.95 105
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 99
+\T1/phv/m/n/10.95 A.21. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 99
+ []\T1/phv/m/n/10.95 105
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 100
+\T1/phv/m/n/10.95 A.22. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 100
+ []\T1/phv/m/n/10.95 106
+ []
+
+LaTeX Info: Redefining \. on input line 101.
+LaTeX Info: Redefining \% on input line 101.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 101
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+[11]
+Overfull \hbox (0.3636pt too wide) detected at line 101
+\T1/phv/m/n/10.95 A.23. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 101
+ []\T1/phv/m/n/10.95 106
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 102
+\T1/phv/m/n/10.95 A.24. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 102
+ []\T1/phv/m/n/10.95 107
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 103
+\T1/phv/m/n/10.95 A.25. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 103
+ []\T1/phv/m/n/10.95 108
+ []
+
+
+Overfull \hbox (0.3636pt too wide) detected at line 104
+\T1/phv/m/n/10.95 A.26. 
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 104
+ []\T1/phv/m/n/10.95 109
+ []
+
+)
+\tf@lof=\write6
+\openout6 = `main.lof'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 16.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [12] (./main.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [13
+
+]
+Overfull \hbox (1.22725pt too wide) detected at line 54
+ []\T1/phv/m/n/10.95 111
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 55
+ []\T1/phv/m/n/10.95 112
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 56
+ []\T1/phv/m/n/10.95 112
+ []
+
+)
+\tf@lot=\write7
+\openout7 = `main.lot'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 17.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [14] (./main.lol
+Overfull \hbox (1.22725pt too wide) detected at line 5
+ []\T1/phv/m/n/10.95 110
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 6
+ []\T1/phv/m/n/10.95 110
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 7
+ []\T1/phv/m/n/10.95 110
+ []
+
+
+Overfull \hbox (1.22725pt too wide) detected at line 8
+ []\T1/phv/m/n/10.95 111
+ []
+
+)
+\tf@lol=\write8
+\openout8 = `main.lol'.
+
+ [15
+
+]
+LaTeX Font Info:    Font shape `T1/phv/b/sc' will be
+(Font)              scaled to size 10.40245pt on input line 29.
+) [16
+
+] (./capitulos/capitulo1/capitulo1.tex
+ 1.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 2.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[][]\T1/phv/m/n/9 https://www.xataka.com/musica/vinilo-resurge-definitivamente-
+34-anos-despues-logra-vender-que-formato-
+ []
+
+<Figuras/logos/escudoazul.png, id=838, 263.5446pt x 263.5446pt>
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 11.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[1
+
+
+ <./Figuras/logos/escudoazul.png>]
+<capitulos/capitulo1/modelo_a.png, id=851, 125.71968pt x 83.5622pt>
+File: capitulos/capitulo1/modelo_a.png Graphic file (type png)
+<use capitulos/capitulo1/modelo_a.png>
+Package pdftex.def Info: capitulos/capitulo1/modelo_a.png  used on input line 2
+1.
+(pdftex.def)             Requested size: 128.03871pt x 85.10352pt.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 8.54997pt on input line 23.
+<capitulos/capitulo1/modelo_b.png, id=852, 112.92188pt x 83.5622pt>
+File: capitulos/capitulo1/modelo_b.png Graphic file (type png)
+<use capitulos/capitulo1/modelo_b.png>
+Package pdftex.def Info: capitulos/capitulo1/modelo_b.png  used on input line 2
+8.
+(pdftex.def)             Requested size: 128.03871pt x 94.76077pt.
+<capitulos/capitulo1/modelo_c.png, id=853, 128.73094pt x 83.5622pt>
+File: capitulos/capitulo1/modelo_c.png Graphic file (type png)
+<use capitulos/capitulo1/modelo_c.png>
+Package pdftex.def Info: capitulos/capitulo1/modelo_c.png  used on input line 3
+5.
+(pdftex.def)             Requested size: 128.03871pt x 83.11952pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 45.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 45.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[2 <./capitulos/capitulo1/modelo_a.png> <./capitulos/capitulo1/modelo_b.png> <.
+/capitulos/capitulo1/modelo_c.png>]
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 65.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 65.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[3]
+<capitulos/capitulo1/agile.png, id=886, 602.25pt x 301.125pt>
+File: capitulos/capitulo1/agile.png Graphic file (type png)
+<use capitulos/capitulo1/agile.png>
+Package pdftex.def Info: capitulos/capitulo1/agile.png  used on input line 77.
+(pdftex.def)             Requested size: 170.71393pt x 85.35744pt.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+8.
+ (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 85.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 85.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[4]
+LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 100.
+LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
+(Font)              scaled to size 10.40245pt on input line 100.
+LaTeX Info: Redefining \. on input line 102.
+LaTeX Info: Redefining \% on input line 102.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 102
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 102.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[5 <./capitulos/capitulo1/agile.png>]
+Overfull \hbox (8.26843pt too wide) in paragraph at lines 115--127
+ [][] 
+ []
+
+<capitulos/capitulo1/gantt_3.png, id=914, 1186.4325pt x 284.06125pt>
+File: capitulos/capitulo1/gantt_3.png Graphic file (type png)
+<use capitulos/capitulo1/gantt_3.png>
+Package pdftex.def Info: capitulos/capitulo1/gantt_3.png  used on input line 13
+3.
+(pdftex.def)             Requested size: 569.05511pt x 136.24814pt.
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 138
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 138.
+LaTeX Info: Redefining \% on input line 138.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 138.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[6]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 138.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[7 <./capitulos/capitulo1/gantt_3.png>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 161
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 161.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[8
+
+]
+<capitulos/capitulo1/nintendo_ds.jpg, id=939, 4015.0pt x 3011.25pt>
+File: capitulos/capitulo1/nintendo_ds.jpg Graphic file (type jpg)
+<use capitulos/capitulo1/nintendo_ds.jpg>
+Package pdftex.def Info: capitulos/capitulo1/nintendo_ds.jpg  used on input lin
+e 184.
+(pdftex.def)             Requested size: 265.51768pt x 199.16928pt.
+<capitulos/capitulo1/supercard.jpg, id=940, 4015.0pt x 3011.25pt>
+File: capitulos/capitulo1/supercard.jpg Graphic file (type jpg)
+<use capitulos/capitulo1/supercard.jpg>
+Package pdftex.def Info: capitulos/capitulo1/supercard.jpg  used on input line 
+193.
+(pdftex.def)             Requested size: 227.59534pt x 170.71652pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 196
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 196.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[9 <./capitulos/capitulo1/nintendo_ds.jpg>]
+Underfull \vbox (badness 6608) has occurred while \output is active []
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 214
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 214.
+LaTeX Info: Redefining \% on input line 214.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 214.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[10 <./capitulos/capitulo1/supercard.jpg>])
+(./capitulos/capitulo2/capitulo2.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 1.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[11]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[12
+
+]
+ 2.
+<capitulos/capitulo2/circuit.jpg, id=964, 180.675pt x 103.46655pt>
+File: capitulos/capitulo2/circuit.jpg Graphic file (type jpg)
+<use capitulos/capitulo2/circuit.jpg>
+Package pdftex.def Info: capitulos/capitulo2/circuit.jpg  used on input line 15
+.
+(pdftex.def)             Requested size: 341.43439pt x 195.54646pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 50.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 52.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 52.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[14 <./capitulos/capitulo2/circuit.jpg>]
+<capitulos/capitulo2/distribucion.png, id=988, 721.69624pt x 474.77374pt>
+File: capitulos/capitulo2/distribucion.png Graphic file (type png)
+<use capitulos/capitulo2/distribucion.png>
+Package pdftex.def Info: capitulos/capitulo2/distribucion.png  used on input li
+ne 55.
+(pdftex.def)             Requested size: 213.39568pt x 140.38304pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+<capitulos/capitulo2/ppu.png, id=992, 632.3625pt x 274.02374pt>
+File: capitulos/capitulo2/ppu.png Graphic file (type png)
+<use capitulos/capitulo2/ppu.png>
+Package pdftex.def Info: capitulos/capitulo2/ppu.png  used on input line 69.
+(pdftex.def)             Requested size: 213.39568pt x 92.46857pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 75.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 75.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[15 <./capitulos/capitulo2/distribucion.png (PNG copy)>]
+<capitulos/capitulo2/diagram.png, id=1004, 1757.56625pt x 975.645pt>
+File: capitulos/capitulo2/diagram.png Graphic file (type png)
+<use capitulos/capitulo2/diagram.png>
+Package pdftex.def Info: capitulos/capitulo2/diagram.png  used on input line 81
+.
+(pdftex.def)             Requested size: 384.10962pt x 213.2134pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 94.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 94.
+LaTeX Info: Redefining \% on input line 94.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 94.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[16 <./capitulos/capitulo2/ppu.png (PNG copy)> <./capitulos/capitulo2/diagram.p
+ng (PNG copy)>]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 9
+8.
+ (/usr/share/texmf-dist/tex/latex/psnfss/ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 98.
+<capitulos/capitulo2/registros.png, id=1018, 747.79375pt x 684.5575pt>
+File: capitulos/capitulo2/registros.png Graphic file (type png)
+<use capitulos/capitulo2/registros.png>
+Package pdftex.def Info: capitulos/capitulo2/registros.png  used on input line 
+106.
+(pdftex.def)             Requested size: 341.43439pt x 312.56047pt.
+<capitulos/capitulo2/registros_thumb.png, id=1020, 747.79375pt x 503.8825pt>
+File: capitulos/capitulo2/registros_thumb.png Graphic file (type png)
+<use capitulos/capitulo2/registros_thumb.png>
+Package pdftex.def Info: capitulos/capitulo2/registros_thumb.png  used on input
+ line 115.
+(pdftex.def)             Requested size: 341.43439pt x 230.06651pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/capitulo2/pipeline.png, id=1022, 420.57124pt x 201.75375pt>
+File: capitulos/capitulo2/pipeline.png Graphic file (type png)
+<use capitulos/capitulo2/pipeline.png>
+Package pdftex.def Info: capitulos/capitulo2/pipeline.png  used on input line 1
+30.
+(pdftex.def)             Requested size: 213.39568pt x 102.36969pt.
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 133
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 133.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[17]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 141
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 141.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[18 <./capitulos/capitulo2/registros.png>]
+<capitulos/capitulo2/debug_block.png, id=1037, 707.64375pt x 390.45876pt>
+File: capitulos/capitulo2/debug_block.png Graphic file (type png)
+<use capitulos/capitulo2/debug_block.png>
+Package pdftex.def Info: capitulos/capitulo2/debug_block.png  used on input lin
+e 149.
+(pdftex.def)             Requested size: 341.43439pt x 188.39516pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 153.
+LaTeX Info: Redefining \% on input line 153.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 153
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 153.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[19 <./capitulos/capitulo2/registros_thumb.png> <./capitulos/capitulo2/pipeline
+.png>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 171
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 171.
+LaTeX Info: Redefining \% on input line 171.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 171.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[20 <./capitulos/capitulo2/debug_block.png>]
+
+LaTeX Warning: Reference `tab:mapa_gb' on page 21 undefined on input line 179.
+
+LaTeX Info: Redefining \. on input line 198.
+LaTeX Info: Redefining \% on input line 198.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 198
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 198.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[21]
+<capitulos/capitulo4/new_1d.png, id=1066, 128.48pt x 8.03pt>
+File: capitulos/capitulo4/new_1d.png Graphic file (type png)
+<use capitulos/capitulo4/new_1d.png>
+Package pdftex.def Info: capitulos/capitulo4/new_1d.png  used on input line 207
+.
+(pdftex.def)             Requested size: 298.75264pt x 18.67357pt.
+<capitulos/capitulo4/new_2d.png, id=1067, 64.24pt x 32.12pt>
+File: capitulos/capitulo4/new_2d.png Graphic file (type png)
+<use capitulos/capitulo4/new_2d.png>
+Package pdftex.def Info: capitulos/capitulo4/new_2d.png  used on input line 213
+.
+(pdftex.def)             Requested size: 170.71393pt x 85.36406pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 243
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 243.
+LaTeX Info: Redefining \% on input line 243.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 243.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[22 <./capitulos/capitulo4/new_1d.png> <./capitulos/capitulo4/new_2d.png>]
+LaTeX Info: Redefining \. on input line 280.
+LaTeX Info: Redefining \% on input line 280.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 280
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 280.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[23]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 323
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 323.
+LaTeX Info: Redefining \% on input line 323.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 323.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[24]
+LaTeX Info: Redefining \. on input line 361.
+LaTeX Info: Redefining \% on input line 361.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 361
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 361.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[25]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 395
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 395.
+LaTeX Info: Redefining \% on input line 395.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 395.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[26]
+LaTeX Info: Redefining \. on input line 413.
+LaTeX Info: Redefining \% on input line 413.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 413
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 413.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[27]
+Overfull \hbox (16.21167pt too wide) in paragraph at lines 433--434
+[]\T1/phv/m/n/10.95 Bits {A-0}: Fre-cuen-cia uti-li-za-da pa-ra el tono. El va-
+lor es-pe-ci-fi-ca-do re-sul-ta en $\OT1/cmr/m/n/10.95 131072\OML/cmm/m/it/10.9
+5 =\OT1/cmr/m/n/10.95 (2048 \OMS/cmsy/m/n/10.95 ^^@
+ []
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 442
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 442.
+LaTeX Info: Redefining \% on input line 442.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 442.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[28]
+Overfull \hbox (16.21167pt too wide) in paragraph at lines 480--481
+[]\T1/phv/m/n/10.95 Bits {A-0}: Fre-cuen-cia uti-li-za-da pa-ra el tono. El va-
+lor es-pe-ci-fi-ca-do re-sul-ta en $\OT1/cmr/m/n/10.95 131072\OML/cmm/m/it/10.9
+5 =\OT1/cmr/m/n/10.95 (2048 \OMS/cmsy/m/n/10.95 ^^@
+ []
+
+LaTeX Info: Redefining \. on input line 486.
+LaTeX Info: Redefining \% on input line 486.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 486
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 486.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[29]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 521
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 521.
+LaTeX Info: Redefining \% on input line 521.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 521.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[30]
+LaTeX Info: Redefining \. on input line 554.
+LaTeX Info: Redefining \% on input line 554.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 554
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 554.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[31]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 582
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 582.
+LaTeX Info: Redefining \% on input line 582.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 582.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[32]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 621.
+LaTeX Info: Redefining \% on input line 621.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 621
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 621.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[33]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 647
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 647.
+LaTeX Info: Redefining \% on input line 647.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 647.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[34]
+LaTeX Info: Redefining \. on input line 681.
+LaTeX Info: Redefining \% on input line 681.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 681
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 681.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 688--689
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 709--710
+
+ []
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 739
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 739.
+LaTeX Info: Redefining \% on input line 739.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 739.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[36]
+LaTeX Info: Redefining \. on input line 780.
+LaTeX Info: Redefining \% on input line 780.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 780
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 780.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[37]) (./capitulos/capitulo3/capitulo3.tex
+
+LaTeX Font Warning: Font shape `T1/phv/b/scit' undefined
+(Font)              using `T1/phv/b/it' instead on input line 1.
+
+
+Underfull \vbox (badness 1648) has occurred while \output is active []
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 6.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 6.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[38]
+<capitulos/capitulo3/tiled_demo_1.png, id=1200, 882.29625pt x 477.785pt>
+File: capitulos/capitulo3/tiled_demo_1.png Graphic file (type png)
+<use capitulos/capitulo3/tiled_demo_1.png>
+Package pdftex.def Info: capitulos/capitulo3/tiled_demo_1.png  used on input li
+ne 13.
+(pdftex.def)             Requested size: 298.75264pt x 161.78131pt.
+<capitulos/capitulo3/tiled_demo_2.png, id=1201, 1256.695pt x 920.43875pt>
+File: capitulos/capitulo3/tiled_demo_2.png Graphic file (type png)
+<use capitulos/capitulo3/tiled_demo_2.png>
+Package pdftex.def Info: capitulos/capitulo3/tiled_demo_2.png  used on input li
+ne 20.
+(pdftex.def)             Requested size: 256.07742pt x 187.55354pt.
+<capitulos/capitulo3/tiled_demo_3.png, id=1202, 1256.695pt x 920.43875pt>
+File: capitulos/capitulo3/tiled_demo_3.png Graphic file (type png)
+<use capitulos/capitulo3/tiled_demo_3.png>
+Package pdftex.def Info: capitulos/capitulo3/tiled_demo_3.png  used on input li
+ne 27.
+(pdftex.def)             Requested size: 256.07742pt x 187.55354pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 31.
+LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
+(Font)              scaled to size 8.54997pt on input line 31.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 31.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 31.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[39 <./capitulos/capitulo3/tiled_demo_1.png> <./capitulos/capitulo3/tiled_demo_
+2.png>]
+<capitulos/capitulo3/tiled_demo_4.png, id=1213, 385.44pt x 192.72pt>
+File: capitulos/capitulo3/tiled_demo_4.png Graphic file (type png)
+<use capitulos/capitulo3/tiled_demo_4.png>
+Package pdftex.def Info: capitulos/capitulo3/tiled_demo_4.png  used on input li
+ne 39.
+(pdftex.def)             Requested size: 341.43439pt x 170.71744pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 57.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 57.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[40 <./capitulos/capitulo3/tiled_demo_3.png> <./capitulos/capitulo3/tiled_demo_
+4.png>]
+<capitulos/capitulo3/y_x.png, id=1227, 655.44875pt x 511.9125pt>
+File: capitulos/capitulo3/y_x.png Graphic file (type png)
+<use capitulos/capitulo3/y_x.png>
+Package pdftex.def Info: capitulos/capitulo3/y_x.png  used on input line 65.
+(pdftex.def)             Requested size: 298.75264pt x 233.32674pt.
+<capitulos/capitulo3/lcd.png, id=1230, 592.2125pt x 339.2675pt>
+File: capitulos/capitulo3/lcd.png Graphic file (type png)
+<use capitulos/capitulo3/lcd.png>
+Package pdftex.def Info: capitulos/capitulo3/lcd.png  used on input line 75.
+(pdftex.def)             Requested size: 298.75264pt x 171.1553pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 79.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 79.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[41 <./capitulos/capitulo3/y_x.png>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 104
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 104.
+LaTeX Info: Redefining \% on input line 104.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 104.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[42 <./capitulos/capitulo3/lcd.png>]
+<capitulos/capitulo3/oam_dist.png, id=1252, 857.2025pt x 637.38126pt>
+File: capitulos/capitulo3/oam_dist.png Graphic file (type png)
+<use capitulos/capitulo3/oam_dist.png>
+Package pdftex.def Info: capitulos/capitulo3/oam_dist.png  used on input line 1
+11.
+(pdftex.def)             Requested size: 382.65071pt x 284.52756pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+LaTeX Info: Redefining \. on input line 125.
+LaTeX Info: Redefining \% on input line 125.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 125
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 125.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[43 <./capitulos/capitulo3/oam_dist.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
+<capitulos/capitulo3/artefacto.png, id=1266, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/artefacto.png Graphic file (type png)
+<use capitulos/capitulo3/artefacto.png>
+Package pdftex.def Info: capitulos/capitulo3/artefacto.png  used on input line 
+154.
+(pdftex.def)             Requested size: 213.39568pt x 168.58397pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 158
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 158.
+LaTeX Info: Redefining \% on input line 158.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 158.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 182--184
+
+ []
+
+<capitulos/capitulo3/invert_sprite.png, id=1275, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/invert_sprite.png Graphic file (type png)
+<use capitulos/capitulo3/invert_sprite.png>
+Package pdftex.def Info: capitulos/capitulo3/invert_sprite.png  used on input l
+ine 192.
+(pdftex.def)             Requested size: 213.39568pt x 168.58397pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 196.
+LaTeX Info: Redefining \% on input line 196.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 196
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 196.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[45 <./capitulos/capitulo3/artefacto.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 219--221
+
+ []
+
+<capitulos/capitulo3/sprite_pal.png, id=1284, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/sprite_pal.png Graphic file (type png)
+<use capitulos/capitulo3/sprite_pal.png>
+Package pdftex.def Info: capitulos/capitulo3/sprite_pal.png  used on input line
+ 227.
+(pdftex.def)             Requested size: 213.39568pt x 168.58397pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 231
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 231.
+LaTeX Info: Redefining \% on input line 231.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 231.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[46 <./capitulos/capitulo3/invert_sprite.png>]
+LaTeX Info: Redefining \. on input line 266.
+LaTeX Info: Redefining \% on input line 266.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 266
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 266.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[47 <./capitulos/capitulo3/sprite_pal.png>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 329
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 329.
+LaTeX Info: Redefining \% on input line 329.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 329.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[48]
+<capitulos/capitulo3/rot_45.png, id=1325, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/rot_45.png Graphic file (type png)
+<use capitulos/capitulo3/rot_45.png>
+Package pdftex.def Info: capitulos/capitulo3/rot_45.png  used on input line 334
+.
+(pdftex.def)             Requested size: 213.39568pt x 168.58397pt.
+<capitulos/capitulo3/scale_2.png, id=1330, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/scale_2.png Graphic file (type png)
+<use capitulos/capitulo3/scale_2.png>
+Package pdftex.def Info: capitulos/capitulo3/scale_2.png  used on input line 36
+6.
+(pdftex.def)             Requested size: 213.39568pt x 168.58397pt.
+LaTeX Info: Redefining \. on input line 374.
+LaTeX Info: Redefining \% on input line 374.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 374
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 374.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[49 <./capitulos/capitulo3/rot_45.png> <./capitulos/capitulo3/scale_2.png>]
+<capitulos/capitulo3/rot_scale_30_1.5.png, id=1344, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/rot_scale_30_1.5.png Graphic file (type png)
+<use capitulos/capitulo3/rot_scale_30_1.5.png>
+Package pdftex.def Info: capitulos/capitulo3/rot_scale_30_1.5.png  used on inpu
+t line 417.
+(pdftex.def)             Requested size: 234.73654pt x 185.44478pt.
+<capitulos/capitulo3/too_big.png, id=1347, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/too_big.png Graphic file (type png)
+<use capitulos/capitulo3/too_big.png>
+Package pdftex.def Info: capitulos/capitulo3/too_big.png  used on input line 42
+8.
+(pdftex.def)             Requested size: 234.73654pt x 185.44478pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 432
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 432.
+LaTeX Info: Redefining \% on input line 432.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 432.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[50 <./capitulos/capitulo3/rot_scale_30_1.5.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 457.
+LaTeX Info: Redefining \% on input line 457.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 457
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 457.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[51 <./capitulos/capitulo3/too_big.png>]
+<capitulos/capitulo3/bitmaps_3.png, id=1373, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/bitmaps_3.png Graphic file (type png)
+<use capitulos/capitulo3/bitmaps_3.png>
+Package pdftex.def Info: capitulos/capitulo3/bitmaps_3.png  used on input line 
+464.
+(pdftex.def)             Requested size: 234.73654pt x 185.44478pt.
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 480
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 480.
+LaTeX Info: Redefining \% on input line 480.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 480.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[52 <./capitulos/capitulo3/bitmaps_3.png>]
+<capitulos/capitulo3/bitmaps_5.png, id=1385, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/bitmaps_5.png Graphic file (type png)
+<use capitulos/capitulo3/bitmaps_5.png>
+Package pdftex.def Info: capitulos/capitulo3/bitmaps_5.png  used on input line 
+486.
+(pdftex.def)             Requested size: 234.73654pt x 185.44478pt.
+LaTeX Info: Redefining \. on input line 503.
+LaTeX Info: Redefining \% on input line 503.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 503
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 503.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[53 <./capitulos/capitulo3/bitmaps_5.png>]
+<capitulos/capitulo3/fondo_1.png, id=1397, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/fondo_1.png Graphic file (type png)
+<use capitulos/capitulo3/fondo_1.png>
+Package pdftex.def Info: capitulos/capitulo3/fondo_1.png  used on input line 54
+5.
+(pdftex.def)             Requested size: 234.73654pt x 187.32271pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 548
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 548.
+LaTeX Info: Redefining \% on input line 548.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 548.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[54]
+<capitulos/capitulo3/affine_bg_1.png, id=1407, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/affine_bg_1.png Graphic file (type png)
+<use capitulos/capitulo3/affine_bg_1.png>
+Package pdftex.def Info: capitulos/capitulo3/affine_bg_1.png  used on input lin
+e 556.
+(pdftex.def)             Requested size: 234.73654pt x 187.32271pt.
+<capitulos/capitulo3/affine_bg_2.png, id=1408, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/affine_bg_2.png Graphic file (type png)
+<use capitulos/capitulo3/affine_bg_2.png>
+Package pdftex.def Info: capitulos/capitulo3/affine_bg_2.png  used on input lin
+e 565.
+(pdftex.def)             Requested size: 192.05481pt x 153.25958pt.
+<capitulos/capitulo3/affine_bg_3.png, id=1409, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/affine_bg_3.png Graphic file (type png)
+<use capitulos/capitulo3/affine_bg_3.png>
+Package pdftex.def Info: capitulos/capitulo3/affine_bg_3.png  used on input lin
+e 572.
+(pdftex.def)             Requested size: 192.05481pt x 153.25958pt.
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 8.54997pt on input line 574.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 578.
+LaTeX Info: Redefining \% on input line 578.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 578
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 578.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[55 <./capitulos/capitulo3/fondo_1.png> <./capitulos/capitulo3/affine_bg_1.png>
+]
+<capitulos/capitulo3/blending_1.png, id=1422, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/blending_1.png Graphic file (type png)
+<use capitulos/capitulo3/blending_1.png>
+Package pdftex.def Info: capitulos/capitulo3/blending_1.png  used on input line
+ 603.
+(pdftex.def)             Requested size: 192.05481pt x 153.25958pt.
+<capitulos/capitulo3/blending_2.png, id=1423, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/blending_2.png Graphic file (type png)
+<use capitulos/capitulo3/blending_2.png>
+Package pdftex.def Info: capitulos/capitulo3/blending_2.png  used on input line
+ 610.
+(pdftex.def)             Requested size: 192.05481pt x 153.25958pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 616
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 616.
+LaTeX Info: Redefining \% on input line 616.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 616.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[56 <./capitulos/capitulo3/affine_bg_2.png> <./capitulos/capitulo3/affine_bg_3.
+png>]
+<capitulos/capitulo3/brightness_3.png, id=1433, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/brightness_3.png Graphic file (type png)
+<use capitulos/capitulo3/brightness_3.png>
+Package pdftex.def Info: capitulos/capitulo3/brightness_3.png  used on input li
+ne 627.
+(pdftex.def)             Requested size: 192.05481pt x 153.25958pt.
+<capitulos/capitulo3/brightness_4.png, id=1434, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/brightness_4.png Graphic file (type png)
+<use capitulos/capitulo3/brightness_4.png>
+Package pdftex.def Info: capitulos/capitulo3/brightness_4.png  used on input li
+ne 634.
+(pdftex.def)             Requested size: 192.05481pt x 153.25958pt.
+LaTeX Info: Redefining \. on input line 645.
+LaTeX Info: Redefining \% on input line 645.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 645
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 645.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[57 <./capitulos/capitulo3/blending_1.png> <./capitulos/capitulo3/blending_2.pn
+g> <./capitulos/capitulo3/brightness_3.png> <./capitulos/capitulo3/brightness_4
+.png>]
+<capitulos/capitulo3/mosaic.png, id=1445, 501.875pt x 396.48125pt>
+File: capitulos/capitulo3/mosaic.png Graphic file (type png)
+<use capitulos/capitulo3/mosaic.png>
+Package pdftex.def Info: capitulos/capitulo3/mosaic.png  used on input line 648
+.
+(pdftex.def)             Requested size: 192.05481pt x 151.72314pt.
+<capitulos/capitulo3/window_1.png, id=1448, 501.875pt x 400.49625pt>
+File: capitulos/capitulo3/window_1.png Graphic file (type png)
+<use capitulos/capitulo3/window_1.png>
+Package pdftex.def Info: capitulos/capitulo3/window_1.png  used on input line 6
+62.
+(pdftex.def)             Requested size: 192.05481pt x 153.25958pt.
+) (./capitulos/capitulo5/capitulo5.tex
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 1.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[58 <./capitulos/capitulo3/mosaic.png> <./capitulos/capitulo3/window_1.png>]
+ 3.
+<capitulos/capitulo5/nidhogg.jpg, id=1456, 461.725pt x 215.80624pt>
+File: capitulos/capitulo5/nidhogg.jpg Graphic file (type jpg)
+<use capitulos/capitulo5/nidhogg.jpg>
+Package pdftex.def Info: capitulos/capitulo5/nidhogg.jpg  used on input line 11
+.
+(pdftex.def)             Requested size: 213.39568pt x 99.73967pt.
+<capitulos/capitulo5/proto_1.png, id=1458, 200.75pt x 20.075pt>
+File: capitulos/capitulo5/proto_1.png Graphic file (type png)
+<use capitulos/capitulo5/proto_1.png>
+Package pdftex.def Info: capitulos/capitulo5/proto_1.png  used on input line 20
+.
+(pdftex.def)             Requested size: 256.07742pt x 25.61134pt.
+<capitulos/capitulo5/mgba_serial_status.png, id=1460, 545.03625pt x 247.92625pt
+>
+File: capitulos/capitulo5/mgba_serial_status.png Graphic file (type png)
+<use capitulos/capitulo5/mgba_serial_status.png>
+Package pdftex.def Info: capitulos/capitulo5/mgba_serial_status.png  used on in
+put line 32.
+(pdftex.def)             Requested size: 213.39568pt x 97.06915pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 34.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[59
+
+ <./capitulos/capitulo5/nidhogg.jpg> <./capitulos/capitulo5/proto_1.png>]
+<capitulos/capitulo5/proto_2.png, id=1469, 501.875pt x 396.48125pt>
+File: capitulos/capitulo5/proto_2.png Graphic file (type png)
+<use capitulos/capitulo5/proto_2.png>
+Package pdftex.def Info: capitulos/capitulo5/proto_2.png  used on input line 46
+.
+(pdftex.def)             Requested size: 213.39568pt x 168.58397pt.
+<capitulos/capitulo5/preview_lobster.png, id=1472, 501.875pt x 400.49625pt>
+File: capitulos/capitulo5/preview_lobster.png Graphic file (type png)
+<use capitulos/capitulo5/preview_lobster.png>
+Package pdftex.def Info: capitulos/capitulo5/preview_lobster.png  used on input
+ line 55.
+(pdftex.def)             Requested size: 213.39568pt x 170.29115pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 58.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 58.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[60 <./capitulos/capitulo5/mgba_serial_status.png> <./capitulos/capitulo5/proto
+_2.png>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 136.
+LaTeX Info: Redefining \% on input line 136.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 136
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 136.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[61 <./capitulos/capitulo5/preview_lobster.png>]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 136.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[62]
+<capitulos/diagramas/casos_uso_2.png, id=1493, 877.2775pt x 515.9275pt>
+File: capitulos/diagramas/casos_uso_2.png Graphic file (type png)
+<use capitulos/diagramas/casos_uso_2.png>
+Package pdftex.def Info: capitulos/diagramas/casos_uso_2.png  used on input lin
+e 143.
+(pdftex.def)             Requested size: 298.75264pt x 175.69643pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 183--201
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 206--224
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 229--246
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 251--269
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 274--292
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 297--315
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 317.
+LaTeX Info: Redefining \% on input line 317.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 317
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 317.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[63
+
+ <./capitulos/diagramas/casos_uso_2.png (PNG copy)>]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 317.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[64]
+LaTeX Info: Redefining \. on input line 317.
+LaTeX Info: Redefining \% on input line 317.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 317
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 317.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[65]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 317
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 317.
+LaTeX Info: Redefining \% on input line 317.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 317.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[66]
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 321--339
+ [][] 
+ []
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 349--362
+ [][] 
+ []
+
+LaTeX Info: Redefining \. on input line 365.
+LaTeX Info: Redefining \% on input line 365.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 365
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 365.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[67
+
+]
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 373--381
+ [][] 
+ []
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 388--396
+ [][] 
+ []
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 401--409
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 414--422
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 424
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 424.
+LaTeX Info: Redefining \% on input line 424.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 424.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[68]
+Overfull \hbox (8.47026pt too wide) in paragraph at lines 428--436
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 445.
+LaTeX Info: Redefining \% on input line 445.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 445
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 445.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[69]
+<capitulos/diagramas/flujo_menu.png, id=1549, 521.95pt x 814.04124pt>
+File: capitulos/diagramas/flujo_menu.png Graphic file (type png)
+<use capitulos/diagramas/flujo_menu.png>
+Package pdftex.def Info: capitulos/diagramas/flujo_menu.png  used on input line
+ 451.
+(pdftex.def)             Requested size: 213.39568pt x 332.81505pt.
+<capitulos/diagramas/flujo_nivel.png, id=1551, 697.60625pt x 959.585pt>
+File: capitulos/diagramas/flujo_nivel.png Graphic file (type png)
+<use capitulos/diagramas/flujo_nivel.png>
+Package pdftex.def Info: capitulos/diagramas/flujo_nivel.png  used on input lin
+e 461.
+(pdftex.def)             Requested size: 277.41177pt x 381.58696pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 464
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 464.
+LaTeX Info: Redefining \% on input line 464.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 464.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[70 <./capitulos/diagramas/flujo_menu.png (PNG copy)>]
+<capitulos/diagramas/flujo_ingame.png, id=1558, 533.995pt x 907.39pt>
+File: capitulos/diagramas/flujo_ingame.png Graphic file (type png)
+<use capitulos/diagramas/flujo_ingame.png>
+Package pdftex.def Info: capitulos/diagramas/flujo_ingame.png  used on input li
+ne 473.
+(pdftex.def)             Requested size: 213.39568pt x 362.61728pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 476.
+LaTeX Info: Redefining \% on input line 476.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 476
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 476.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[71 <./capitulos/diagramas/flujo_nivel.png (PNG copy)>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 492
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 492.
+LaTeX Info: Redefining \% on input line 492.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 492.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[72 <./capitulos/diagramas/flujo_ingame.png (PNG copy)>]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 493.
+LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 496.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 576.
+LaTeX Info: Redefining \% on input line 576.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 576
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 576.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[73]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 650
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 650.
+LaTeX Info: Redefining \% on input line 650.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 650.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[74]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 650.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[75]
+<capitulos/capitulo5/nogba_bench.png, id=1618, 343.2825pt x 322.20375pt>
+File: capitulos/capitulo5/nogba_bench.png Graphic file (type png)
+<use capitulos/capitulo5/nogba_bench.png>
+Package pdftex.def Info: capitulos/capitulo5/nogba_bench.png  used on input lin
+e 663.
+(pdftex.def)             Requested size: 213.39568pt x 200.29031pt.
+<capitulos/capitulo5/bench_value.png, id=1620, 501.875pt x 396.48125pt>
+File: capitulos/capitulo5/bench_value.png Graphic file (type png)
+<use capitulos/capitulo5/bench_value.png>
+Package pdftex.def Info: capitulos/capitulo5/bench_value.png  used on input lin
+e 672.
+(pdftex.def)             Requested size: 256.07742pt x 202.31165pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 675
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 675.
+LaTeX Info: Redefining \% on input line 675.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 675.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[76
+
+ <./capitulos/capitulo5/nogba_bench.png>]
+<capitulos/capitulo5/graph_bench.png, id=1628, 568.1225pt x 323.2075pt>
+File: capitulos/capitulo5/graph_bench.png Graphic file (type png)
+<use capitulos/capitulo5/graph_bench.png>
+Package pdftex.def Info: capitulos/capitulo5/graph_bench.png  used on input lin
+e 702.
+(pdftex.def)             Requested size: 234.73654pt x 133.54173pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 706.
+LaTeX Info: Redefining \% on input line 706.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 706
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 706.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[77 <./capitulos/capitulo5/bench_value.png>]
+<capitulos/capitulo5/torn.png, id=1650, 215.6055pt x 183.68625pt>
+File: capitulos/capitulo5/torn.png Graphic file (type png)
+<use capitulos/capitulo5/torn.png>
+Package pdftex.def Info: capitulos/capitulo5/torn.png  used on input line 713.
+(pdftex.def)             Requested size: 170.71393pt x 145.44685pt.
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 730
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 730.
+LaTeX Info: Redefining \% on input line 730.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 730.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[78 <./capitulos/capitulo5/graph_bench.png> <./capitulos/capitulo5/torn.png>]
+<capitulos/capitulo5/wout_irq.png, id=1671, 421.575pt x 419.5675pt>
+File: capitulos/capitulo5/wout_irq.png Graphic file (type png)
+<use capitulos/capitulo5/wout_irq.png>
+Package pdftex.def Info: capitulos/capitulo5/wout_irq.png  used on input line 7
+37.
+(pdftex.def)             Requested size: 192.05481pt x 191.14038pt.
+<capitulos/capitulo5/with_irq.png, id=1672, 421.575pt x 419.5675pt>
+File: capitulos/capitulo5/with_irq.png Graphic file (type png)
+<use capitulos/capitulo5/with_irq.png>
+Package pdftex.def Info: capitulos/capitulo5/with_irq.png  used on input line 7
+44.
+(pdftex.def)             Requested size: 192.05481pt x 191.14038pt.
+LaTeX Info: Redefining \. on input line 759.
+LaTeX Info: Redefining \% on input line 759.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 759
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 759.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[79 <./capitulos/capitulo5/wout_irq.png> <./capitulos/capitulo5/with_irq.png>]
+<capitulos/capitulo5/salida_script.png, id=1683, 935.495pt x 450.68375pt>
+File: capitulos/capitulo5/salida_script.png Graphic file (type png)
+<use capitulos/capitulo5/salida_script.png>
+Package pdftex.def Info: capitulos/capitulo5/salida_script.png  used on input l
+ine 786.
+(pdftex.def)             Requested size: 341.43439pt x 164.48787pt.
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 788
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 788.
+LaTeX Info: Redefining \% on input line 788.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 788.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[80]
+<capitulos/capitulo5/makefile.png, id=1698, 630.355pt x 162.6075pt>
+File: capitulos/capitulo5/makefile.png Graphic file (type png)
+<use capitulos/capitulo5/makefile.png>
+Package pdftex.def Info: capitulos/capitulo5/makefile.png  used on input line 7
+97.
+(pdftex.def)             Requested size: 298.75264pt x 77.06567pt.
+) (./capitulos/capitulo6/capitulo6.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 1.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[81 <./capitulos/capitulo5/salida_script.png> <./capitulos/capitulo5/makefile.p
+ng>]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[82
+
+]
+ 4.
+<capitulos/capitulo6/release.png, id=1713, 1131.22626pt x 458.71375pt>
+File: capitulos/capitulo6/release.png Graphic file (type png)
+<use capitulos/capitulo6/release.png>
+Package pdftex.def Info: capitulos/capitulo6/release.png  used on input line 6.
+
+(pdftex.def)             Requested size: 341.43439pt x 138.4481pt.
+
+LaTeX Font Warning: Font shape `T1/phv/b/scit' undefined
+(Font)              using `T1/phv/b/it' instead on input line 11.
+
+
+LaTeX Font Warning: Font shape `T1/phv/b/scit' undefined
+(Font)              using `T1/phv/b/it' instead on input line 11.
+
+<capitulos/capitulo6/logo.png, id=1714, 48.18pt x 24.09pt>
+File: capitulos/capitulo6/logo.png Graphic file (type png)
+<use capitulos/capitulo6/logo.png>
+Package pdftex.def Info: capitulos/capitulo6/logo.png  used on input line 15.
+(pdftex.def)             Requested size: 213.39568pt x 106.71523pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 21.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[83 <./capitulos/capitulo6/release.png> <./capitulos/capitulo6/logo.png>]
+<capitulos/capitulo6/hero.png, id=1725, 128.48pt x 112.42pt>
+File: capitulos/capitulo6/hero.png Graphic file (type png)
+<use capitulos/capitulo6/hero.png>
+Package pdftex.def Info: capitulos/capitulo6/hero.png  used on input line 34.
+(pdftex.def)             Requested size: 162.60512pt x 142.26378pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 37.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 37.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[84]
+<capitulos/capitulo6/hero_blue.png, id=1732, 501.875pt x 395.4775pt>
+File: capitulos/capitulo6/hero_blue.png Graphic file (type png)
+<use capitulos/capitulo6/hero_blue.png>
+Package pdftex.def Info: capitulos/capitulo6/hero_blue.png  used on input line 
+46.
+(pdftex.def)             Requested size: 192.05481pt x 151.33904pt.
+<capitulos/capitulo6/hero_gold.png, id=1733, 501.875pt x 395.4775pt>
+File: capitulos/capitulo6/hero_gold.png Graphic file (type png)
+<use capitulos/capitulo6/hero_gold.png>
+Package pdftex.def Info: capitulos/capitulo6/hero_gold.png  used on input line 
+53.
+(pdftex.def)             Requested size: 192.05481pt x 151.33904pt.
+<capitulos/capitulo6/slime.png, id=1735, 96.36pt x 32.12pt>
+File: capitulos/capitulo6/slime.png Graphic file (type png)
+<use capitulos/capitulo6/slime.png>
+Package pdftex.def Info: capitulos/capitulo6/slime.png  used on input line 66.
+(pdftex.def)             Requested size: 170.73065pt x 56.9055pt.
+
+Underfull \vbox (badness 7504) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 71.
+LaTeX Info: Redefining \% on input line 71.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 71.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 71.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[85 <./capitulos/capitulo6/hero.png> <./capitulos/capitulo6/hero_blue.png> <./c
+apitulos/capitulo6/hero_gold.png> <./capitulos/capitulo6/slime.png>]
+<capitulos/capitulo6/fly.png, id=1745, 40.15pt x 16.06pt>
+File: capitulos/capitulo6/fly.png Graphic file (type png)
+<use capitulos/capitulo6/fly.png>
+Package pdftex.def Info: capitulos/capitulo6/fly.png  used on input line 74.
+(pdftex.def)             Requested size: 142.27551pt x 56.9055pt.
+<capitulos/capitulo6/enemies.png, id=1748, 501.875pt x 395.4775pt>
+File: capitulos/capitulo6/enemies.png Graphic file (type png)
+<use capitulos/capitulo6/enemies.png>
+Package pdftex.def Info: capitulos/capitulo6/enemies.png  used on input line 82
+.
+(pdftex.def)             Requested size: 298.75264pt x 235.4297pt.
+
+
+LaTeX Font Warning: Font shape `T1/phv/b/scit' undefined
+(Font)              using `T1/phv/b/it' instead on input line 86.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 90.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 90.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[86 <./capitulos/capitulo6/fly.png> <./capitulos/capitulo6/enemies.png>]
+<capitulos/capitulo5/game_0.png, id=1759, 501.875pt x 396.48125pt>
+File: capitulos/capitulo5/game_0.png Graphic file (type png)
+<use capitulos/capitulo5/game_0.png>
+Package pdftex.def Info: capitulos/capitulo5/game_0.png  used on input line 95.
+
+(pdftex.def)             Requested size: 192.05481pt x 151.72314pt.
+<capitulos/capitulo5/game_1.png, id=1760, 501.875pt x 396.48125pt>
+File: capitulos/capitulo5/game_1.png Graphic file (type png)
+<use capitulos/capitulo5/game_1.png>
+Package pdftex.def Info: capitulos/capitulo5/game_1.png  used on input line 102
+.
+(pdftex.def)             Requested size: 192.05481pt x 151.72314pt.
+<capitulos/capitulo6/menu.png, id=1761, 501.875pt x 395.4775pt>
+File: capitulos/capitulo6/menu.png Graphic file (type png)
+<use capitulos/capitulo6/menu.png>
+Package pdftex.def Info: capitulos/capitulo6/menu.png  used on input line 113.
+(pdftex.def)             Requested size: 256.07742pt x 201.79947pt.
+<capitulos/capitulo6/controls.png, id=1763, 501.875pt x 395.4775pt>
+File: capitulos/capitulo6/controls.png Graphic file (type png)
+<use capitulos/capitulo6/controls.png>
+Package pdftex.def Info: capitulos/capitulo6/controls.png  used on input line 1
+22.
+(pdftex.def)             Requested size: 256.07742pt x 201.79947pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 125.
+LaTeX Info: Redefining \% on input line 125.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 125
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 125.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[87 <./capitulos/capitulo5/game_0.png> <./capitulos/capitulo5/game_1.png> <./ca
+pitulos/capitulo6/menu.png>]
+<capitulos/capitulo6/level_1_0.png, id=1775, 192.72pt x 192.72pt>
+File: capitulos/capitulo6/level_1_0.png Graphic file (type png)
+<use capitulos/capitulo6/level_1_0.png>
+Package pdftex.def Info: capitulos/capitulo6/level_1_0.png  used on input line 
+133.
+(pdftex.def)             Requested size: 234.73654pt x 234.73575pt.
+<capitulos/capitulo6/level_1_1.png, id=1776, 385.44pt x 192.72pt>
+File: capitulos/capitulo6/level_1_1.png Graphic file (type png)
+<use capitulos/capitulo6/level_1_1.png>
+Package pdftex.def Info: capitulos/capitulo6/level_1_1.png  used on input line 
+139.
+(pdftex.def)             Requested size: 384.10962pt x 192.05492pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 142
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 142.
+LaTeX Info: Redefining \% on input line 142.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 142.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[88 <./capitulos/capitulo6/controls.png> <./capitulos/capitulo6/level_1_0.png>]
+<capitulos/capitulo6/heart_small.png, id=1786, 1626.075pt x 1084.05pt>
+File: capitulos/capitulo6/heart_small.png Graphic file (type png)
+<use capitulos/capitulo6/heart_small.png>
+Package pdftex.def Info: capitulos/capitulo6/heart_small.png  used on input lin
+e 158.
+(pdftex.def)             Requested size: 192.05481pt x 128.02927pt.
+<capitulos/capitulo6/heart_big.png, id=1787, 1626.075pt x 1084.05pt>
+File: capitulos/capitulo6/heart_big.png Graphic file (type png)
+<use capitulos/capitulo6/heart_big.png>
+Package pdftex.def Info: capitulos/capitulo6/heart_big.png  used on input line 
+165.
+(pdftex.def)             Requested size: 192.05481pt x 128.02927pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 172.
+LaTeX Info: Redefining \% on input line 172.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 172
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 172.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[89 <./capitulos/capitulo6/level_1_1.png>]
+<capitulos/capitulo6/supercard.png, id=1796, 693.59125pt x 473.77pt>
+File: capitulos/capitulo6/supercard.png Graphic file (type png)
+<use capitulos/capitulo6/supercard.png>
+Package pdftex.def Info: capitulos/capitulo6/supercard.png  used on input line 
+184.
+(pdftex.def)             Requested size: 256.07742pt x 174.92346pt.
+<capitulos/capitulo6/running.jpeg, id=1797, 4015.0pt x 3011.25pt>
+File: capitulos/capitulo6/running.jpeg Graphic file (type jpg)
+<use capitulos/capitulo6/running.jpeg>
+Package pdftex.def Info: capitulos/capitulo6/running.jpeg  used on input line 1
+91.
+(pdftex.def)             Requested size: 341.43439pt x 256.06773pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 194
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 194.
+LaTeX Info: Redefining \% on input line 194.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 194.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[90 <./capitulos/capitulo6/heart_small.png (PNG copy)> <./capitulos/capitulo6/h
+eart_big.png (PNG copy)> <./capitulos/capitulo6/supercard.png>])
+(./capitulos/capitulo7/capitulo7.tex
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[91 <./capitulos/capitulo6/running.jpeg>]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[92
+
+]
+ 5.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 15.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[93]
+<capitulos/capitulo7/proto.png, id=1820, 1481.535pt x 939.51pt>
+File: capitulos/capitulo7/proto.png Graphic file (type png)
+<use capitulos/capitulo7/proto.png>
+Package pdftex.def Info: capitulos/capitulo7/proto.png  used on input line 23.
+(pdftex.def)             Requested size: 213.39568pt x 135.31514pt.
+) (./main.bbl
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 1.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 1.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[94 <./capitulos/capitulo7/proto.png>]
+Underfull \hbox (badness 2573) in paragraph at lines 58--61
+[]\T1/phv/m/n/10.95 M. Korth, ``Gba-tek: Ga-me Boy Ad-van-ce/-Nin-ten-do DS tec
+h-ni-cal in-fo.'' [][]$\T1/cmtt/m/n/10.95 https : / /
+ []
+
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 71.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[95
+
+]) (./capitulos/apendice/apendice.tex
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 3.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 3.
+LaTeX Info: Redefining \% on input line 3.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 3.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[96]
+Ap\'{e}ndice A.
+<capitulos/apendice/estructura.png, id=1844, 945.5325pt x 592.2125pt>
+File: capitulos/apendice/estructura.png Graphic file (type png)
+<use capitulos/apendice/estructura.png>
+Package pdftex.def Info: capitulos/apendice/estructura.png  used on input line 
+10.
+(pdftex.def)             Requested size: 298.75264pt x 187.11722pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 24.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[97
+
+ <./capitulos/apendice/estructura.png>]
+<capitulos/apendice/sprites_1.png, id=1852, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_1.png Graphic file (type png)
+<use capitulos/apendice/sprites_1.png>
+Package pdftex.def Info: capitulos/apendice/sprites_1.png  used on input line 3
+2.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+<capitulos/apendice/sprites_2.png, id=1853, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_2.png Graphic file (type png)
+<use capitulos/apendice/sprites_2.png>
+Package pdftex.def Info: capitulos/apendice/sprites_2.png  used on input line 3
+8.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+<capitulos/apendice/sprites_3.png, id=1854, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_3.png Graphic file (type png)
+<use capitulos/apendice/sprites_3.png>
+Package pdftex.def Info: capitulos/apendice/sprites_3.png  used on input line 4
+4.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/sprites_4.png, id=1855, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_4.png Graphic file (type png)
+<use capitulos/apendice/sprites_4.png>
+Package pdftex.def Info: capitulos/apendice/sprites_4.png  used on input line 5
+0.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/sprites_5.png, id=1856, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_5.png Graphic file (type png)
+<use capitulos/apendice/sprites_5.png>
+Package pdftex.def Info: capitulos/apendice/sprites_5.png  used on input line 5
+6.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/sprites_7.png, id=1857, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_7.png Graphic file (type png)
+<use capitulos/apendice/sprites_7.png>
+Package pdftex.def Info: capitulos/apendice/sprites_7.png  used on input line 6
+2.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/sprites_6.png, id=1858, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_6.png Graphic file (type png)
+<use capitulos/apendice/sprites_6.png>
+Package pdftex.def Info: capitulos/apendice/sprites_6.png  used on input line 6
+8.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/sprites_8.png, id=1859, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_8.png Graphic file (type png)
+<use capitulos/apendice/sprites_8.png>
+Package pdftex.def Info: capitulos/apendice/sprites_8.png  used on input line 7
+4.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/sprites_9.png, id=1860, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_9.png Graphic file (type png)
+<use capitulos/apendice/sprites_9.png>
+Package pdftex.def Info: capitulos/apendice/sprites_9.png  used on input line 8
+0.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/sprites_10.png, id=1861, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/sprites_10.png Graphic file (type png)
+<use capitulos/apendice/sprites_10.png>
+Package pdftex.def Info: capitulos/apendice/sprites_10.png  used on input line 
+86.
+(pdftex.def)             Requested size: 256.07742pt x 170.70569pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 89.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 89.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[98 <./capitulos/apendice/sprites_1.png (PNG copy)> <./capitulos/apendice/sprit
+es_2.png (PNG copy)>]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 89.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[99 <./capitulos/apendice/sprites_3.png (PNG copy)> <./capitulos/apendice/sprit
+es_4.png (PNG copy)> <./capitulos/apendice/sprites_5.png (PNG copy)>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 89.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 89.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[100 <./capitulos/apendice/sprites_7.png (PNG copy)> <./capitulos/apendice/spri
+tes_6.png (PNG copy)> <./capitulos/apendice/sprites_8.png (PNG copy)>]
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 89.
+
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 89.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[101 <./capitulos/apendice/sprites_9.png (PNG copy)> <./capitulos/apendice/spri
+tes_10.png (PNG copy)>]
+<capitulos/apendice/reg_1.png, id=1880, 574.145pt x 588.1975pt>
+File: capitulos/apendice/reg_1.png Graphic file (type png)
+<use capitulos/apendice/reg_1.png>
+Package pdftex.def Info: capitulos/apendice/reg_1.png  used on input line 96.
+(pdftex.def)             Requested size: 384.10962pt x 393.51587pt.
+<capitulos/apendice/reg_2.png, id=1881, 574.145pt x 392.46625pt>
+File: capitulos/apendice/reg_2.png Graphic file (type png)
+<use capitulos/apendice/reg_2.png>
+Package pdftex.def Info: capitulos/apendice/reg_2.png  used on input line 102.
+(pdftex.def)             Requested size: 384.10962pt x 262.56773pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/reg_3.png, id=1882, 574.145pt x 265.99374pt>
+File: capitulos/apendice/reg_3.png Graphic file (type png)
+<use capitulos/apendice/reg_3.png>
+Package pdftex.def Info: capitulos/apendice/reg_3.png  used on input line 108.
+(pdftex.def)             Requested size: 384.10962pt x 177.95511pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/reg_4.png, id=1883, 574.145pt x 155.58125pt>
+File: capitulos/apendice/reg_4.png Graphic file (type png)
+<use capitulos/apendice/reg_4.png>
+Package pdftex.def Info: capitulos/apendice/reg_4.png  used on input line 114.
+(pdftex.def)             Requested size: 384.10962pt x 104.08694pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/reg_5.png, id=1884, 574.145pt x 152.57pt>
+File: capitulos/apendice/reg_5.png Graphic file (type png)
+<use capitulos/apendice/reg_5.png>
+Package pdftex.def Info: capitulos/apendice/reg_5.png  used on input line 120.
+(pdftex.def)             Requested size: 384.10962pt x 102.07237pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/reg_6.png, id=1885, 574.145pt x 54.2025pt>
+File: capitulos/apendice/reg_6.png Graphic file (type png)
+<use capitulos/apendice/reg_6.png>
+Package pdftex.def Info: capitulos/apendice/reg_6.png  used on input line 126.
+(pdftex.def)             Requested size: 384.10962pt x 36.26254pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/reg_7.png, id=1886, 574.145pt x 149.55875pt>
+File: capitulos/apendice/reg_7.png Graphic file (type png)
+<use capitulos/apendice/reg_7.png>
+Package pdftex.def Info: capitulos/apendice/reg_7.png  used on input line 132.
+(pdftex.def)             Requested size: 384.10962pt x 100.05779pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/reg_8.png, id=1887, 574.145pt x 239.89626pt>
+File: capitulos/apendice/reg_8.png Graphic file (type png)
+<use capitulos/apendice/reg_8.png>
+Package pdftex.def Info: capitulos/apendice/reg_8.png  used on input line 138.
+(pdftex.def)             Requested size: 384.10962pt x 160.49538pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 141
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 141.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[102
+
+ <./capitulos/apendice/reg_1.png>]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 141.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[103 <./capitulos/apendice/reg_2.png> <./capitulos/apendice/reg_3.png> <./capit
+ulos/apendice/reg_4.png>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 141
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 141.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[104 <./capitulos/apendice/reg_5.png> <./capitulos/apendice/reg_6.png> <./capit
+ulos/apendice/reg_7.png> <./capitulos/apendice/reg_8.png>]
+<capitulos/apendice/credits_0.png, id=1908, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/credits_0.png Graphic file (type png)
+<use capitulos/apendice/credits_0.png>
+Package pdftex.def Info: capitulos/apendice/credits_0.png  used on input line 1
+48.
+(pdftex.def)             Requested size: 256.05855pt x 170.71652pt.
+<capitulos/apendice/credits_1.png, id=1909, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/credits_1.png Graphic file (type png)
+<use capitulos/apendice/credits_1.png>
+Package pdftex.def Info: capitulos/apendice/credits_1.png  used on input line 1
+56.
+(pdftex.def)             Requested size: 256.05855pt x 170.71652pt.
+<capitulos/apendice/ingame_menu.png, id=1910, 1626.075pt x 1084.05pt>
+File: capitulos/apendice/ingame_menu.png Graphic file (type png)
+<use capitulos/apendice/ingame_menu.png>
+Package pdftex.def Info: capitulos/apendice/ingame_menu.png  used on input line
+ 162.
+(pdftex.def)             Requested size: 256.05855pt x 170.71652pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/level_2_0.png, id=1911, 385.44pt x 192.72pt>
+File: capitulos/apendice/level_2_0.png Graphic file (type png)
+<use capitulos/apendice/level_2_0.png>
+Package pdftex.def Info: capitulos/apendice/level_2_0.png  used on input line 1
+68.
+(pdftex.def)             Requested size: 398.3368pt x 199.16928pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/level_2_1.png, id=1912, 192.72pt x 385.44pt>
+File: capitulos/apendice/level_2_1.png Graphic file (type png)
+<use capitulos/apendice/level_2_1.png>
+Package pdftex.def Info: capitulos/apendice/level_2_1.png  used on input line 1
+74.
+(pdftex.def)             Requested size: 199.16838pt x 398.33858pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/level_3_0.png, id=1913, 385.44pt x 385.44pt>
+File: capitulos/apendice/level_3_0.png Graphic file (type png)
+<use capitulos/apendice/level_3_0.png>
+Package pdftex.def Info: capitulos/apendice/level_3_0.png  used on input line 1
+80.
+(pdftex.def)             Requested size: 398.3368pt x 398.33858pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<capitulos/apendice/level_3_1.png, id=1914, 385.44pt x 385.44pt>
+File: capitulos/apendice/level_3_1.png Graphic file (type png)
+<use capitulos/apendice/level_3_1.png>
+Package pdftex.def Info: capitulos/apendice/level_3_1.png  used on input line 1
+86.
+(pdftex.def)             Requested size: 398.3368pt x 398.33858pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 189
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 189.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[105
+
+ <./capitulos/apendice/credits_0.png (PNG copy)> <./capitulos/apendice/credits_
+1.png (PNG copy)>]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 189.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[106 <./capitulos/apendice/ingame_menu.png (PNG copy)> <./capitulos/apendice/le
+vel_2_0.png>]
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 189
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 189.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[107 <./capitulos/apendice/level_2_1.png>]
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 189
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 189.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[108 <./capitulos/apendice/level_3_0.png>]
+LaTeX Info: Redefining \. on input line 189.
+LaTeX Info: Redefining \% on input line 189.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 189
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 189.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[109 <./capitulos/apendice/level_3_1.png>]
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+File: Figuras/logos/logo_peque_L.png Graphic file (type png)
+<use Figuras/logos/logo_peque_L.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_L.png  used on input line 241
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+LaTeX Info: Redefining \. on input line 241.
+LaTeX Info: Redefining \% on input line 241.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 241.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[110
+
+]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 336.
+LaTeX Info: Redefining \% on input line 336.
+File: Figuras/logos/logo_peque_R.png Graphic file (type png)
+<use Figuras/logos/logo_peque_R.png>
+Package pdftex.def Info: Figuras/logos/logo_peque_R.png  used on input line 336
+.
+(pdftex.def)             Requested size: 85.35696pt x 32.67194pt.
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 336.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[111]
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 336.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[112]) (./contra.tex
+<Figuras/logos/TFG_back.pdf, id=2008, 597.61269pt x 845.1374pt>
+File: Figuras/logos/TFG_back.pdf Graphic file (type pdf)
+<use Figuras/logos/TFG_back.pdf>
+Package pdftex.def Info: Figuras/logos/TFG_back.pdf  used on input line 11.
+(pdftex.def)             Requested size: 597.54738pt x 845.04507pt.
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 16.
+ (./resumentexto.tex)
+Overfull \hbox (89.62253pt too wide) in paragraph at lines 14--16
+[][]$[]$  
+ []
+
+)
+Overfull \hbox (129.02956pt too wide) in paragraph at lines 4--168
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--168
+
+ []
+
+File: Figuras/logos/escudoazul.png Graphic file (type png)
+<use Figuras/logos/escudoazul.png>
+Package pdftex.def Info: Figuras/logos/escudoazul.png  used on input line 169.
+(pdftex.def)             Requested size: 845.18562pt x 845.18562pt.
+
+Overfull \hbox (247.67775pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[113
+
+
+
+ <./Figuras/logos/TFG_back.pdf>] (./main.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 72AC32046C3AAD0177E6BA8896A139AA;12834.
+ ) 
+Here is how much of TeX's memory you used:
+ 30074 strings out of 478994
+ 518975 string characters out of 5864751
+ 1245271 words of memory out of 5000000
+ 46251 multiletter control sequences out of 15000+600000
+ 478273 words of font info for 107 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 102i,16n,102p,1890b,2097s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.22} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.21} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.20} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.19} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.18} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.17} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.16} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.15} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.14} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/tex
+mf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sftt0900.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texmf-dist/fonts/type
+1/public/cm-super/sftt1095.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/
+uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/sh
+are/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts
+/type1/urw/helvetic/uhvro8a.pfb>
+Output written on main.pdf (129 pages, 16338391 bytes).
+PDF statistics:
+ 2198 PDF objects out of 2487 (max. 8388607)
+ 1821 compressed objects within 19 object streams
+ 569 named destinations out of 1000 (max. 500000)
+ 1195 words of extra memory for PDF output out of 10000 (max. 10000000)
+

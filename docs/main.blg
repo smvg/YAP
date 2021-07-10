@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2021/Arch Linux)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: ieeetr.bst
+Database file #1: referencias.bib
+Warning--empty journal in bib:paper_1
+Warning--empty year in bib:paper_1
+Warning--empty year in bib:comp_arch_quant
+You've used 23 entries,
+            1876 wiz_defined-function locations,
+            596 strings with 6721 characters,
+and the built_in function-call counts, 3913 in all, are:
+= -- 370
+> -- 141
+< -- 0
++ -- 59
+- -- 36
+* -- 214
+:= -- 549
+add.period$ -- 31
+call.type$ -- 23
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 177
+empty$ -- 462
+format.name$ -- 36
+if$ -- 977
+int.to.chr$ -- 0
+int.to.str$ -- 23
+missing$ -- 11
+newline$ -- 81
+num.names$ -- 20
+pop$ -- 127
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 114
+stack$ -- 0
+substring$ -- 116
+swap$ -- 40
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 31
+width$ -- 25
+write$ -- 199
+(There were 3 warnings)

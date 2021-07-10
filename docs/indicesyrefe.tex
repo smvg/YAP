@@ -1,0 +1,70 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% ESTO ES PARA LA TABLA DE CONTENIDOS (INDICE)%%%%%%%%%%%%%%%%
+
+
+\setcounter{secnumdepth}{3} %niveles en capitulos hasta (1.1.1)
+\setcounter{tocdepth}{3} %niveles en indice hasta (1.1)
+
+
+\addtocontents{toc}{~\hfill\small{Página}\par} %añade "pagina" a tabla de contanidos
+\addtocontents{toc}{\vspace{2pt} \hrule \vspace{5mm} \par}
+
+%\renewcommand\contentsname{Índice de contenidos}
+\tableofcontents
+\listoffigures % indice de figuras
+\listoftables % indice de tablas
+\lstlistoflistings % indice de listados
+
+
+
+%---------------------------------------------------------------------------
+% comienzo de relacion abreviaturas y/o acrónimos
+%---------------------------------------------------------------------------
+
+
+%\addcontentsline{toc}{section}{ABREVIATURAS}
+\clearpage
+\vspace{0.2cm}
+\section*{ABREVIATURAS}
+
+\begin{tabular}{ l   |    l  }
+	
+
+&\\
+bpp & Bits per pixel \\ 
+bps & Bits per second \\ 
+CBG & Color Game Boy \\ 
+DMG & Display Monochrome Game Boy \\ 
+FIFO & First In First Out \\ 
+FPU & Floating Point Unit \\ 
+GBA & Game Boy Advance \\
+OAM & Object Attribute Memory \\ 
+ROM & Read-Only Memory \\ 
+SIO & Serial Input/Output \\ 
+VRAM & Video RAM \\
+      &\\
+
+\end{tabular}
+
+\section*{GLOSARIO}
+
+\begin{tabular}{ l   |    p{8cm}  }
+	
+
+&\\
+HBlank & Simboliza el período que se produce entre cada línea refrescada por pantalla \\
+Homebrew & Juegos o aplicaciones creadas por aficionados para plataformas cerradas \\
+Renderizar & Proceso que involucra generar una imagen a partir de modelos (2D o 3D) y/o imágenes base \\ 
+Sprint & El tiempo transcurrido para completar una nueva versión del producto \\
+Sprites & Describe cualquier entidad única que se pueda mover dentro de un juego. Suelen ser personajes y objetos. \\
+Tile & Pequeña imagen (en el caso de la Game Boy Advance, de 8x8) que sirve para posteriormente referenciarla en un mapa \\
+Transformaciones de corte & Operación geométrica donde una parte del cuerpo se desliza paralelamente con respecto a otra \\
+VBlank & Simboliza el período que se produce entre cada fotograma refrescado \\
+VCount & Simboliza el número de líneas verticales refrescadas en la Game Boy Advance \\
+      &\\
+
+\end{tabular}
+
+%\addcontentsline{toc}{section}{ABREVIATURAS}
+

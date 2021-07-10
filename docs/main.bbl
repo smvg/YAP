@@ -1,0 +1,105 @@
+\begin{thebibliography}{10}
+
+\bibitem{bib:rodrigo}
+R.~Copetti, ``{G}ame {B}oy {A}dvance architecture: A practical analysis.''
+  \url{https://www.copetti.org/writings/consoles/game-boy-advance/}, Mayo 2021.
+\newblock Último acceso: 2021-07-10.
+
+\bibitem{bib:gba_manual}
+Nintendo\textsuperscript{\textregistered}, {\em AGB Programming Manual},
+  1.1~ed., 2001.
+
+\bibitem{bib:tonc}
+J.~Vijn, ``Tonc v1.4.2.'' \url{https://www.coranac.com/tonc/text/}.
+\newblock Último acceso: 2021-07-10.
+
+\bibitem{bib:paper3}
+B.~B. Camper, {\em Homebrew and the social construction of gaming: community,
+  creativity, and legal context of amateur {G}ame {B}oy {A}dvance development}.
+\newblock PhD thesis, Massachusetts Institute of Technology, 2005.
+
+\bibitem{bib:paper_1}
+N.~C. Cruz, J.~L. Redondo, J.~D. {\'A}lvarez, y P.~M. Ortigosa,
+  ``Aplicaciones de chip-8, una m{\'a}quina virtual de finales de los 70, en
+  los estudios actuales de ingenier{\i}a inform{\'a}tica,''
+
+\bibitem{bib:paper_2}
+I.~Finlayson, ``Using the {G}ame {B}oy {A}dvance to teach {C}omputer {S}ystems
+  and {A}rchitecture,'' {\em Journal of Computing Sciences in Colleges},
+  vol.~32, no.~3, pp.~78--84, 2017.
+
+\bibitem{bib:paper_5}
+G.~Kacmarcik y S.~G. Kacmarcik, ``Introducing computer programming via {G}ame
+  {B}oy {A}dvance homebrew,'' in {\em Proceedings of the 40th ACM technical
+  symposium on Computer science education}, pp.~281--285, 2009.
+
+\bibitem{bib:arm_book}
+D.~A. Patterson y J.~L. Hennessy, {\em Computer Organization and Design: The
+  Hardware Software Interface ARM Edition}.
+\newblock San Francisco, CA, USA: Morgan Kaufmann Publishers Inc., 1st~ed.,
+  2016.
+
+\bibitem{doi:10.1177/0020294019857748}
+P.~Foltýnek, M.~Babiuch, y P.~Šuránek, ``Measurement and data processing
+  from internet of things modules by dual-core application using esp32 board,''
+  {\em Measurement and Control}, vol.~52, no.~7-8, pp.~970--984, 2019.
+
+\bibitem{bib:paper6}
+J.~Koutonen y M.~Lepp{\"a}nen, ``How are agile methods and practices deployed
+  in video game development? a survey into finnish game studios,'' in {\em
+  International Conference on Agile Software Development}, pp.~135--149,
+  Springer, 2013.
+
+\bibitem{bib:agile_course}
+P.~Tan, R.~Eberhardt, S.~Verrilli, y A.~Grant, ``Cms.611j creating video
+  games,'' 2014.
+
+\bibitem{bib:gbatek}
+	M.~Korth, ``Gbatek: {G}ame {B}oy {A}dvance/{N}intendo {DS} technical info.''
+  \url{https://problemkaputt.de/gbatek.htm}, 2007.
+\newblock Último acceso: 2021-07-10.
+
+\bibitem{bib:comp_arch_quant}
+J.~L. Hennessy, D.~A. Patterson, y K.~Asanović, {\em Computer Architecture:
+  A Quantitative Approach}.
+\newblock {Morgan Kaufmann/Elsevier}, 5th ed~ed.
+
+\bibitem{bib:arm}
+Advanced RISC Machines Ltd., {\em ARM7TDMI Technical reference manual},
+  r4p1~ed., 2004.
+
+\bibitem{bib:armv4_isa}
+R.~Meier, ``Ce 1921 computer architecture,'' 2020.
+
+\bibitem{bib:belogic}
+``The audio advance - gameboy advance sound resources.''
+  \url{http://belogic.com/gba/index.php}.
+\newblock Último acceso: 2021-07-10.
+
+\bibitem{bib:dma_book}
+A.~Rubini y J.~Corbet, {\em Linux device drivers}.
+\newblock "O\textquotesingle Reilly Media, Inc.", 2005.
+
+\bibitem{bib:aff_matrix}
+D.~Fussell, ``{CS384G} {C}omputer {G}raphics,'' 2011.
+
+\bibitem{bib:algebra}
+J.~A.~L. Ramos y J.~C. Díaz, ``Álgebra lineal y {M}atemáticas discreta,''
+  2021.
+
+\bibitem{bib:diu}
+N.~P. Soriano y J.~C. Rodríguez, ``Desarrollo de interfaces de usuario,''
+  2020.
+
+\bibitem{bib:ing_vid}
+A.~Cuesta, ``Ingeniería de videojuegos,'' 2021.
+
+\bibitem{bib:washington}
+I.~Finlayson, ``{CPSC} 305 {C}omputer {S}ystems and {A}rchitecture,'' 2021.
+
+\bibitem{bib:repositorio}
+S.~M.~V. Giagnocavo, ``Repositorio del código desarrollado.''
+  \url{https://github.com/smvg/YAP}, 2021.
+\newblock Último acceso: 2021-07-10.
+
+\end{thebibliography}

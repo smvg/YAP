@@ -1,0 +1,170 @@
+%\documentclass[11pt, oneside]{book}
+\documentclass[11pt, twoside]{book}  %importante cambiar si es libro
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Paquetes y librerías iniciales para un documento,   
+%           Graficos, simbolos, tablas, bibliografía
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%---------------------------------------------------------------------------
+% Esto es para que el LaTeX sepa que el texto está en español:
+\usepackage[spanish,es-noshorthands,es-tabla]{babel}
+\selectlanguage{spanish}
+%---------------------------------------------------------------------------
+% para uso en modo matemático
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{amsmath}
+
+%---------------------------------------------------------------------------
+% Para las imagenes 
+
+\usepackage[dvips]{graphicx}
+\graphicspath{{Figuras/}} % se fija el camino para las figuras
+\usepackage{rotating}  %para poder rotar las figuras
+\usepackage{wrapfig}
+
+%---------------------------------------------------------------------------
+% PIES DE FOTOS Y TABLAS 
+
+\usepackage{float} % para objetos flotantes
+\usepackage{caption} % para los pies de fotos o tablas
+\usepackage{subcaption}
+\captionsetup{font=small,labelfont=bf} % para tamaño y tipo fuentes pie de foto
+\usepackage{multirow} % para las tablas unir columnas
+\usepackage{multicol} %para escribir en multiples columnas
+
+% Referencias y biblio
+
+\usepackage{pdfpages}
+%\usepackage[pdftex,breaklinks=true,hidelinks]{hyperref} % para referencias/indice en pdf
+
+\usepackage[
+breaklinks=true,colorlinks=true,
+linkcolor=blue,urlcolor=blue,citecolor=blue,% PDF VIEW
+linkcolor=black,urlcolor=black,citecolor=black,% PRINT
+bookmarks=true,bookmarksopenlevel=2]{hyperref}
+
+\usepackage{emptypage}
+\usepackage{ragged2e} %Justificacion
+
+\usepackage{appendix}
+
+%Para bibliografía
+\usepackage[numbers,square]{natbib}
+%\bibliographystyle{apalike}
+%\bibliographystyle{IEEEtran}
+\bibliographystyle{ieeetr}
+
+%%%%%%%%% HAbituales estilos
+%plainnat
+%%abbrvnat
+%unsrtnat  %Items in bibliography sorted in order cited)
+%IEEEtran
+
+%
+
+%%%%%%%%%%%%%%%%%%%% Formato de la ual %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%\usepackage{UAL}
+\usepackage[print,doble]{UAL}
+\usepackage{codigo}
+
+%%%%%% PAQUETES INCORPORADOS POR EL USUARIO
+
+\usepackage{longtable}   %Tablas largas
+\usepackage{verbatim}
+\usepackage{textcomp} %para completar los signos válidos
+\usepackage{eurosym} %simbolo del euro [\euro]
+\usepackage[bottom]{footmisc}
+% Nuevo
+\usepackage{placeins}
+\usepackage{tablefootnote}
+\usepackage[ruled,vlined]{algorithm2e}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Datos identificativos del TFG                            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\author{Samuel Martín Vargas Giagnocavo}
+\titulo{Desarrollo de un juego para la consola clásica Game Boy Advance}
+\subTitulo{DEPARTAMENTO DE
+INFORMÁTICA\\  ÁREA DE LENGUAJES Y SISTEMAS INFORMÁTICOS}
+\estudios{Grado en Informática}
+\universidad{UNIVERSIDAD DE ALMERÍA}
+\director{Juana López Redondo} 
+\direct{Nicolás Calvo Cruz}
+\curso {2020/2021}
+\newcommand{\gameversion}{0.5}
+
+
+\pagestyle{cab}
+
+\begin{document}
+\frontmatter
+
+\portada
+
+
+
+\begin{dedicatoria}
+	{\huge Agradecimientos}
+
+	\vspace{1cm}
+
+Siempre he considerado que toda la gente que he conocido y con la que he trabajado durante los últimos años me ha ayudado de una forma u otra, tanto en mi formación profesional como en mi formación como persona. En condiciones normales esta sección del trabajo se habría limitado a un simple agradecimiento a todos los compañeros y profesores que he conocido durante la carrera y educación primaria y secundaria, incluyendo por supuesto a familiares y amigos. Sin embargo, he tenido la suerte de no vivir en ``condiciones normales'' y por ello me veo forzado a resaltar, con permiso de las personas que no serán mencionadas en esta sección, a aquellas que considero que han tenido un papel importante en el proceso de realizar el Trabajo Fin de Grado y la carrera de Ingeniería Informática.
+
+	\vspace{1cm}
+
+Entre las personas que quiero destacar, me gustaría agradecer en especial a los dos directores de mi Trabajo Fin de Grado: Juana López Redondo y Nicolás Calvo Cruz. Agradezco enormemente la confianza, paciencia (especialmente al realizar el informe) y apoyo de mis dos directores, además de las continuas observaciones y consejos proporcionados que han mejorado la calidad del trabajo. También tengo que agradecer la oportunidad de abordar una temática distinta (y si se me permite, más interesante) a las demás, la cual no solo me ha motivado al realizar el trabajo, sino que ha despertado un interés en este área que seguramente no habría descubierto de no haber realizado el trabajo.
+
+	\vspace{1cm}
+
+Además, me gustaría agradecer la asombrosa paciencia de mis padres, Antonio y Cynthia. El apoyo mostrado junto con todo lo que he adquirido de ellos, tanto conocimientos como valores, será algo que nunca podré agradecer de más.
+
+	\vspace{1cm}
+
+Espero que el trabajo realizado esté a la altura del apoyo recibido de todas las personas mencionadas anteriormente. Confío también en que, si he olvidado a alguien, sepa perdonármelo. Muchas gracias a todos.
+\end{dedicatoria}
+
+
+\input{indicesyrefe}
+
+% Borra el bloque si sólo queremos resumen en contraportada
+% \addcontentsline{toc}{chapter}{Resumen y Abstract}
+% \chapter*{Resumen y Abstract}
+% \input{resumentexto.tex}
+
+
+%se suelen utilizar archivos separados, por capitulos para agilizar la compilación en las versiones intermedias
+\mainmatter
+\marcagua
+
+\input{capitulos/capitulo1/capitulo1}
+\input{capitulos/capitulo2/capitulo2}
+%\include{capitulos/capitulo4/capitulo4}
+\input{capitulos/capitulo3/capitulo3}
+
+\input{capitulos/capitulo5/capitulo5}
+\input{capitulos/capitulo6/capitulo6}
+\input{capitulos/capitulo7/capitulo7}
+
+\addcontentsline{toc}{chapter}{Bibliografía}
+\bibliography{referencias}
+
+%\appendix
+%\clearpage
+\begin{appendices}
+\input{capitulos/apendice/apendice}
+\end{appendices}
+%\input{pmbok}
+
+\clearpage
+\backmatter
+\input {contra}
+
+\end{document}
+

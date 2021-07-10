@@ -1,0 +1,56 @@
+\babel@toc {spanish}{}
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Temporización por iteración.\relax }}{6}{table.caption.7}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Mapa de memoria de la Game Boy Advance.\relax }}{14}{table.caption.12}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Registro \textit {Display Control}.\relax }}{23}{table.caption.22}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces Registro \textit {Display Status}.\relax }}{23}{table.caption.23}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces Registro de control de fondos.\relax }}{24}{table.caption.24}%
+\contentsline {table}{\numberline {2.5}{\ignorespaces Registros de cada uno de los fondos (1).\relax }}{25}{table.caption.25}%
+\contentsline {table}{\numberline {2.6}{\ignorespaces Registros de cada uno de los fondos (2).\relax }}{25}{table.caption.26}%
+\contentsline {table}{\numberline {2.7}{\ignorespaces Formato del valor de referencia de los fondos utilizando la matriz de transformación.\relax }}{25}{table.caption.27}%
+\contentsline {table}{\numberline {2.8}{\ignorespaces Registros dedicados de los modos 1 y 2.\relax }}{29}{table.caption.28}%
+\contentsline {table}{\numberline {2.9}{\ignorespaces Frecuencias disponibles para generar ruido en el modo 4.\relax }}{30}{table.caption.29}%
+\contentsline {table}{\numberline {2.10}{\ignorespaces Registros fuente, destino y de control de \textit {DMA}.\relax }}{33}{table.caption.30}%
+\contentsline {table}{\numberline {2.11}{\ignorespaces Registros de control y datos de los temporizadores.\relax }}{34}{table.caption.31}%
+\contentsline {table}{\numberline {2.12}{\ignorespaces Registros I/O para el modo multijugador.\relax }}{36}{table.caption.32}%
+\contentsline {table}{\numberline {2.13}{\ignorespaces Los botones en el registro KEYINPUT.\relax }}{36}{table.caption.33}%
+\contentsline {table}{\numberline {2.14}{\ignorespaces Los botones en el registro KEYCNT.\relax }}{37}{table.2.14}%
+\contentsline {table}{\numberline {2.15}{\ignorespaces Interrupciones disponibles en el sistema.\relax }}{37}{table.2.15}%
+\contentsline {table}{\numberline {2.16}{\ignorespaces Distribución de los \textit {tiles} en la VRAM.}}{41}{table.caption.38}%
+\contentsline {table}{\numberline {2.17}{\ignorespaces Color de 15 bits.\relax }}{42}{table.caption.41}%
+\contentsline {table}{\numberline {2.18}{\ignorespaces Tamaño del \textit {sprite} según los valores de \{F-E\} en los atributos 0 y 1.\relax }}{44}{table.caption.43}%
+\contentsline {table}{\numberline {2.19}{\ignorespaces Atributo 0.\relax }}{45}{table.caption.45}%
+\contentsline {table}{\numberline {2.20}{\ignorespaces Atributo 1.\relax }}{46}{table.caption.47}%
+\contentsline {table}{\numberline {2.21}{\ignorespaces Atributo 2.\relax }}{47}{table.caption.49}%
+\contentsline {table}{\numberline {2.22}{\ignorespaces Modos bitmap de la Game Boy Advance. Tabla basada en \cite {bib:tonc}\relax }}{52}{table.caption.54}%
+\contentsline {table}{\numberline {2.23}{\ignorespaces Modos para los fondos de la Game Boy Advance.\relax }}{54}{table.caption.57}%
+\contentsline {table}{\numberline {2.24}{\ignorespaces Tamaños disponibles para cada uno de los fondos.\relax }}{54}{table.caption.58}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Objetivo 1.\relax }}{61}{table.caption.71}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Objetivo 2.\relax }}{62}{table.caption.72}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Objetivo 3.\relax }}{62}{table.caption.73}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Objetivo 4.\relax }}{62}{table.caption.74}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Objetivo 5.\relax }}{62}{table.caption.75}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Perfil de Usuario 1.\relax }}{63}{table.caption.77}%
+\contentsline {table}{\numberline {3.7}{\ignorespaces Actor 1.\relax }}{63}{table.caption.78}%
+\contentsline {table}{\numberline {3.8}{\ignorespaces Requisito funcional 1.\relax }}{64}{table.caption.79}%
+\contentsline {table}{\numberline {3.9}{\ignorespaces Requisito funcional 2.\relax }}{64}{table.caption.80}%
+\contentsline {table}{\numberline {3.10}{\ignorespaces Requisito funcional 3.\relax }}{65}{table.caption.81}%
+\contentsline {table}{\numberline {3.11}{\ignorespaces Requisito funcional 4.\relax }}{65}{table.caption.82}%
+\contentsline {table}{\numberline {3.12}{\ignorespaces Requisito funcional 5.\relax }}{66}{table.caption.83}%
+\contentsline {table}{\numberline {3.13}{\ignorespaces Requisito funcional 6.\relax }}{66}{table.caption.84}%
+\contentsline {table}{\numberline {3.14}{\ignorespaces Requisito funcional 7.\relax }}{67}{table.caption.85}%
+\contentsline {table}{\numberline {3.15}{\ignorespaces Requisito de información 1.\relax }}{67}{table.caption.86}%
+\contentsline {table}{\numberline {3.16}{\ignorespaces Requisito no funcional 1.\relax }}{68}{table.caption.87}%
+\contentsline {table}{\numberline {3.17}{\ignorespaces Requisito no funcional 2.\relax }}{68}{table.caption.88}%
+\contentsline {table}{\numberline {3.18}{\ignorespaces Requisito no funcional 3.\relax }}{69}{table.caption.89}%
+\contentsline {table}{\numberline {3.19}{\ignorespaces Requisito no funcional 4.\relax }}{69}{table.caption.90}%
+\contentsline {table}{\numberline {3.20}{\ignorespaces Requisito no funcional 5.\relax }}{69}{table.caption.91}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Funciones de la BIOS a utilizar con la instrucción \textit {swi} (1).\relax }}{111}{table.caption.149}%
+\contentsline {table}{\numberline {A.2}{\ignorespaces Funciones de la BIOS a utilizar con la instrucción \textit {swi} (2).\relax }}{112}{table.caption.150}%
+\contentsline {table}{\numberline {A.3}{\ignorespaces Funciones de la BIOS a utilizar con la instrucción \textit {swi} (3).\relax }}{112}{table.caption.151}%

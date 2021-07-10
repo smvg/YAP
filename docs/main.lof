@@ -1,0 +1,104 @@
+\babel@toc {spanish}{}
+\babel@toc {spanish}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Game Boy Advance, Game Boy Advance SP y Game Boy Advance Micro.\relax }}{2}{figure.caption.5}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Metodología ágil}}{5}{figure.caption.6}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Diagrama de Gantt.\relax }}{7}{figure.caption.8}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Consola retrocompatible con la Game Boy Advance, la Nintendo DS Lite.\relax }}{9}{figure.caption.9}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Cartucho \textit {Supercard}.\relax }}{10}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces El circuito de la Game Boy Advance \cite {bib:rodrigo}.\relax }}{14}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Distribución de la memoria de la Game Boy Advance \cite {bib:rodrigo}.\relax }}{15}{figure.caption.13}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces La PPU de la Game Boy Advance.\relax }}{16}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Diagrama simplificado del circuito de la Game Boy Advance \cite {bib:rodrigo}.\relax }}{16}{figure.caption.15}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Registros por modo del procesador ARM7TDMI.\relax }}{18}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Registros por modo del procesador ARM7TDMI cuando este utiliza el set de instrucciones THUMB.\relax }}{19}{figure.caption.17}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Segmentación de instrucciones de la Game Boy Advance.\relax }}{19}{figure.caption.18}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Distribución del EmbeddedICE-RT y controlador TAP en el diagrama de bloques del ARM7TDMI.\relax }}{20}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Distribución 1D de los \textit {tiles} en la OAM.\relax }}{22}{figure.caption.20}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Distribución 2D de los \textit {tiles} en la OAM.\relax }}{22}{figure.caption.21}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces \textit {Tileset} que se utilizará para crear el fondo.\relax }}{39}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Relleno del canvas a partir de \textit {tiles}.\relax }}{39}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Creación de un fondo a partir del \textit {tileset}.\relax }}{40}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Distintos \textit {tiles} utilizados.\relax }}{40}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Coordenadas de la pantalla.\relax }}{41}{figure.caption.39}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Los períodos HBlank y VBlank en la pantalla de la GBA\spacefactor \@m {}. Imagen de~\cite {bib:gba_manual}.\relax }}{42}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Distribución de los atributos en la OAM.\relax }}{43}{figure.caption.42}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces Resultado de no ocultar los \textit {sprites} no utilizados.\relax }}{45}{figure.caption.44}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces Demostración de los \textit {flags} para invertir un \textit {sprite} de diversas maneras.\relax }}{46}{figure.caption.46}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Utilizando los mismos \textit {tiles} se muestran diferentes \textit {sprites} alternando la paleta de colores de cada uno.\relax }}{47}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Rotación de \textit {sprites} por medio de la matriz de transformación.\relax }}{49}{figure.caption.50}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces Escalado \textit {sprites} por medio de una matriz de transformación.\relax }}{49}{figure.caption.51}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Rotación y escalado de \textit {sprites} por medio de la matriz de transformación.\relax }}{50}{figure.caption.52}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces \textit {Sprite} que sobrepasa el área permitida.\relax }}{51}{figure.caption.53}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces Demostración práctica del uso del Modo 3.\relax }}{52}{figure.caption.55}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces Ejemplo práctico del modo 5.\relax }}{53}{figure.caption.56}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces Fondo 32x32.\relax }}{55}{figure.caption.59}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces Fondo 32x32.\relax }}{55}{figure.caption.60}%
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Matriz de transformación sobre el fondo de la Figura~\ref {fig:fondo_2}.\relax }}{56}{figure.caption.61}%
+\contentsline {figure}{\numberline {2.30}{\ignorespaces Efecto conseguido configurando el efecto \textit {blending} de la consola.\relax }}{57}{figure.caption.62}%
+\contentsline {figure}{\numberline {2.31}{\ignorespaces Demostración del cambio de intensidad a través de BLDCNT y BLDY.\relax }}{57}{figure.caption.63}%
+\contentsline {figure}{\numberline {2.32}{\ignorespaces Sprite renderizado con efecto ``mosaico'' (izquierda), junto a su representación sin alterar (derecha).\relax }}{58}{figure.caption.64}%
+\contentsline {figure}{\numberline {2.33}{\ignorespaces Demostración del funcionamiento de una ventana.\relax }}{58}{figure.caption.65}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Nidhogg, un juego para ordenador.\relax }}{59}{figure.caption.66}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \textit {Assets} para el primer prototipo del juego.\relax }}{59}{figure.caption.67}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Funcionalidades por implementar.\relax }}{60}{figure.caption.68}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Segundo prototipo del juego.\relax }}{60}{figure.caption.69}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Arte escogido para el desarrollo del juego.\relax }}{61}{figure.caption.70}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Diagrama de casos de uso.\relax }}{63}{figure.caption.76}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Diagrama de flujo del menú principal.\relax }}{70}{figure.caption.92}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Diagrama de flujo para cada nivel del juego.\relax }}{71}{figure.caption.93}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Diagrama de flujo para el menú in-game.\relax }}{72}{figure.caption.94}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Interfaz que utiliza No\$GBA para mostrar el uso de la CPU.\relax }}{76}{figure.caption.99}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces El valor del temporizador en la esquina superior izquierda.\relax }}{77}{figure.caption.100}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Resultados de la prueba de rendimiento.\relax }}{78}{figure.caption.101}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Desincronización vertical.}}{78}{figure.caption.102}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Rendimiento de las dos alternativas disponibles.\relax }}{79}{figure.caption.103}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Archivos generados por el \textit {script}.\relax }}{81}{figure.caption.104}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Regla del Makefile.\relax }}{81}{figure.caption.105}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Versión publicada del juego.\relax }}{83}{figure.caption.106}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Logo del juego \textit {Yet Another Platformer}.\relax }}{83}{figure.caption.107}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Los \textit {sprites} del personaje principal.\relax }}{85}{figure.caption.108}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Las dos variantes del personaje principal.\relax }}{85}{figure.caption.109}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Los \textit {sprites} del primer enemigo.\relax }}{85}{figure.caption.110}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Los \textit {sprites} del segundo enemigo.\relax }}{86}{figure.caption.111}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Enemigos de uno de los niveles.\relax }}{86}{figure.caption.112}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces \textit {Title screen}.\relax }}{87}{figure.caption.113}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Menú principal del juego.\relax }}{87}{figure.caption.114}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Escena de controles del juego.\relax }}{88}{figure.caption.115}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Primera parte del nivel.\relax }}{88}{figure.caption.116}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Segunda parte del nivel.\relax }}{89}{figure.caption.117}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Tres corazones indicando la vida del jugador.\relax }}{90}{figure.caption.118}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Software para meter juegos en el cartucho.\relax }}{90}{figure.caption.119}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces El juego se ejecuta en la Nintendo DS.\relax }}{91}{figure.caption.120}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Prototipo del nuevo sistema de selección.\relax }}{94}{figure.caption.121}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Estructura del proyecto.\relax }}{97}{figure.caption.123}%
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Variante azul corriendo.\relax }}{98}{figure.caption.124}%
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Variante azul iniciando la transformación.\relax }}{98}{figure.caption.125}%
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Últimos fotogramas de la transformación de la variante azul a la dorada.\relax }}{99}{figure.caption.126}%
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Variante dorada.\relax }}{99}{figure.caption.127}%
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Ataque del personaje principal. además se observa la muerte del ``monstruo verde''.\relax }}{99}{figure.caption.128}%
+\contentsline {figure}{\numberline {A.7}{\ignorespaces Variante dorada del personaje principal junto a uno de los enemigos.\relax }}{100}{figure.caption.129}%
+\contentsline {figure}{\numberline {A.8}{\ignorespaces Ataque del personaje principal. Además se observa la muerte de la ``mosca''.\relax }}{100}{figure.caption.130}%
+\contentsline {figure}{\numberline {A.9}{\ignorespaces El personaje principal saltando.\relax }}{100}{figure.caption.131}%
+\contentsline {figure}{\numberline {A.10}{\ignorespaces El personaje principal cayendo.\relax }}{101}{figure.caption.132}%
+\contentsline {figure}{\numberline {A.11}{\ignorespaces El personaje principal desapareciendo al no tener vida.\relax }}{101}{figure.caption.133}%
+\contentsline {figure}{\numberline {A.12}{\ignorespaces Registros LCD.\relax }}{102}{figure.caption.134}%
+\contentsline {figure}{\numberline {A.13}{\ignorespaces Registros de Sonido.\relax }}{103}{figure.caption.135}%
+\contentsline {figure}{\numberline {A.14}{\ignorespaces Registros \textit {Direct Memory Access}.\relax }}{103}{figure.caption.136}%
+\contentsline {figure}{\numberline {A.15}{\ignorespaces Registros de Temporización.\relax }}{103}{figure.caption.137}%
+\contentsline {figure}{\numberline {A.16}{\ignorespaces Registros de Comunicación Serial (1).\relax }}{104}{figure.caption.138}%
+\contentsline {figure}{\numberline {A.17}{\ignorespaces Registros de los botones.\relax }}{104}{figure.caption.139}%
+\contentsline {figure}{\numberline {A.18}{\ignorespaces Registros de Comunicación Serial (2).\relax }}{104}{figure.caption.140}%
+\contentsline {figure}{\numberline {A.19}{\ignorespaces Registros de Interrupciones.\relax }}{104}{figure.caption.141}%
+\contentsline {figure}{\numberline {A.20}{\ignorespaces Créditos iniciales (1).\relax }}{105}{figure.caption.142}%
+\contentsline {figure}{\numberline {A.21}{\ignorespaces Créditos iniciales (2).\relax }}{105}{figure.caption.143}%
+\contentsline {figure}{\numberline {A.22}{\ignorespaces Menú ingame.\relax }}{106}{figure.caption.144}%
+\contentsline {figure}{\numberline {A.23}{\ignorespaces Segundo nivel (1).\relax }}{106}{figure.caption.145}%
+\contentsline {figure}{\numberline {A.24}{\ignorespaces Segundo nivel (2).\relax }}{107}{figure.caption.146}%
+\contentsline {figure}{\numberline {A.25}{\ignorespaces Tercer nivel (1).\relax }}{108}{figure.caption.147}%
+\contentsline {figure}{\numberline {A.26}{\ignorespaces Tercer nivel (2).\relax }}{109}{figure.caption.148}%
