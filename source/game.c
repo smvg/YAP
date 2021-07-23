@@ -585,15 +585,13 @@ inline void process_sprite_collisions(uint32_t num_enemies) {
 
 			// Check sword collision with enemies
 			if ((__hero.state & CURR_STATE_ATTACK) && __hero.dir == DIR_LEFT
-					&& __hero.x + __hoff - (12 << 8) - __enemies[ii].x < offx) {
+					&& __hero.x + __hoff - FIXED(12) - __enemies[ii].x < offx) {
 				__enemies[ii].life--;
 			} else if ((__hero.state & CURR_STATE_ATTACK) && __hero.dir == DIR_RIGHT
-					&& __enemies[ii].x - __hero.x - __hoff - (12 << 8) < offx) {
+					&& __enemies[ii].x - __hero.x - __hoff - FIXED(12) < offx) {
 				__enemies[ii].life--;
-			}
-
 			// Check player collision with enemies
-			if (get_abs(__enemies[ii].x - __hero.x - __hoff) < (offx - (3 << 8))) {
+			} else if (get_abs(__enemies[ii].x - __hero.x - __hoff) < (offx - FIXED(3))) {
 				SET_CURR_STATE(__hero.state, CURR_STATE_ATTACKED);
 				__hero.dmg_frame = DMG_COOLDOWN;
 				__hero.life--;
