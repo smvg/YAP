@@ -39,7 +39,7 @@ While the project does not make use of the libraries provided by devkitPro, it d
 <br>
 
 ## Assets
-- Music by <b>Goose Ninja</b>. Check out [Minimalistic Loops](https://gooseninja.itch.io/minimalistc-loops) in [hist itch.io page](https://www.itch.io).
+- Music by <b>Goose Ninja</b>. Check out [Minimalistic Loops](https://gooseninja.itch.io/minimalistc-loops) in [his itch.io page](https://www.itch.io).
 - Sprites by <b>o_lobster</b>. Check out [PIXEL ART METROIDVANIA ASSET PACK](https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack), licensed under the [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), in [his itch.io page](https://o-lobster.itch.io/).
 - Buttons by <b>zrghr</b>. Check out [Buttons](https://zrghr.itch.io/the-buttons) in [his itch.io page](https://zrghr.itch.io/).
 - Font by <b>Impossible Realms</b>. Check out his [8x8 Font](https://opengameart.org/content/8x8-font-chomps-wacky-worlds-beta) and his [other work](https://opengameart.org/users/impossiblerealms).
