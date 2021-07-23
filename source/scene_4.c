@@ -8,7 +8,7 @@
 #include "palette_bin.h"
 #include "level_2_tiles_bin.h"
 #include "ingame_tiles_bin.h"
-#include "level_2_bg_map_bin.h"
+#include "level_bg_0_map_bin.h"
 #include "level_2_col_map_bin.h"
 #include "level_2_misc_map_bin.h"
 #include "ingame_ui_map_bin.h"
@@ -47,7 +47,7 @@ inline void init_level_1_1()
 
 	dma_full_transfer_3(&map_mem[SCRBLK_IDX+0][0], level_2_col_map_bin, BYTES_TO_WORDS(level_2_col_map_bin_size));
 	dma_full_transfer_3(&map_mem[SCRBLK_IDX+2][0], level_2_misc_map_bin, BYTES_TO_WORDS(level_2_misc_map_bin_size));
-	dma_full_transfer_3(&map_mem[SCRBLK_IDX+4][0], level_2_bg_map_bin, BYTES_TO_WORDS(level_2_bg_map_bin_size));
+	dma_full_transfer_3(&map_mem[SCRBLK_IDX+4][0], level_bg_0_map_bin, BYTES_TO_WORDS(level_bg_0_map_bin_size));
 	dma_full_transfer_3(&map_mem[SCRBLK_IDX+5][0], ingame_ui_map_bin, BYTES_TO_WORDS(ingame_ui_map_bin_size));
 
 	dma_full_transfer_3(pal_bg_mem, palette_bin, BYTES_TO_WORDS(palette_bin_size));

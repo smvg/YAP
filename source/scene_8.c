@@ -9,7 +9,7 @@
 #include "palette_bin.h"
 #include "level_6_tiles_bin.h"
 #include "ingame_tiles_bin.h"
-#include "level_6_bg_map_bin.h"
+#include "level_bg_0_map_bin.h"
 #include "level_6_col_map_bin.h"
 #include "level_6_misc_map_bin.h"
 #include "ingame_ui_map_bin.h"
@@ -54,7 +54,7 @@ inline void init_level_3_1()
 	dma_full_transfer_3(&map_mem[SCRBLK_IDX + 5][0], &level_6_misc_map_bin[4096], level_6_misc_map_bin_size >> 4);
 	dma_full_transfer_3(&map_mem[SCRBLK_IDX + 6][0], &level_6_misc_map_bin[2048], level_6_misc_map_bin_size >> 4);
 	dma_full_transfer_3(&map_mem[SCRBLK_IDX + 7][0], &level_6_misc_map_bin[6144], level_6_misc_map_bin_size >> 4);
-	dma_full_transfer_3(&map_mem[SCRBLK_IDX + 8][0], level_6_bg_map_bin, BYTES_TO_WORDS(level_6_bg_map_bin_size));
+	dma_full_transfer_3(&map_mem[SCRBLK_IDX + 8][0], level_bg_0_map_bin, BYTES_TO_WORDS(level_bg_0_map_bin_size));
 	dma_full_transfer_3(&map_mem[SCRBLK_IDX + 9][0], ingame_ui_map_bin, BYTES_TO_WORDS(ingame_ui_map_bin_size));
 
 	dma_full_transfer_3(pal_bg_mem, palette_bin, BYTES_TO_WORDS(palette_bin_size));
