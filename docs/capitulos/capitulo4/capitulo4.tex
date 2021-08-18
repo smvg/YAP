@@ -223,13 +223,13 @@ En el caso del registro BLDALPHA, que ocupa 2 bytes, los bits \{C-8\} denotan el
 
 \subsection{Registros de sonido}
 
-La Game Boy Advance ofrece 6 modos diferentes de sonido, 4 analógicos y 2 digitales (canales A-B). Hay un registro para controlar cada uno de ellos además de varios generales que controlan el volumen.
+La Game Boy Advance ofrece 6 modos diferentes de sonido, 4 utilizando el \textit{PSG} (\textit{Programmable Sound Generator}) y 2 utilizando \textit{Direct Sound} (canales A-B). Hay un registro para controlar cada uno de ellos además de varios generales que controlan el volumen.
 
 El término técnico para referirse a las 6 opciones de la consola para ofrecer audio es ``canal''. Sin embargo, para no confundirlo con los canales de izquierda y derecha, a lo largo del trabajo, se hará referencia a los 6 canales como ``modos''.
 
 La información contenida en esta sección se basa en la documentación oficial~\cite{bib:gba_manual} y en el material adicional disponible en~\cite{bib:belogic}.
 
-\subsubsection{Modos analógicos}
+\subsubsection{Modos utilizando el \textit{Programmable Sound Generator}
 Los dos primeros modos que ofrece el hardware de la consola, los canales 1 y 2, permiten la reproducción de pulsos con la posibilidad de modificar el volumen de cada onda. De forma adicional, el primer modo permite cambiar de dinámicamente la frecuencia de las ondas. Para ello, ambos modos harán uso de registros para modificar el tono y la duración de la onda, teniendo el modo 1 un registro adicional para controlar la frecuencia. 
 
 El registro encargado de la duración, volumen y ciclo de la onda utiliza el siguiente formato para los modos 1 y 2:
@@ -297,7 +297,7 @@ Finalmente, el tercer registro necesario para utilizar el modo 3 es el encargado
 	\item Bits \{A-0\}: Frecuencia utilizada para el tono. El valor especificado resulta en $131072/(2048-n)$ Hz.
 \end{itemize}
 
-El último modo analógico, el modo 4, tiene como función generar ruido como añadido a los demás modos. De los dos registros reservados para el modo, el que controla la duración y el volumen sigue el mismo formato presentado anteriormente. El registro diferente que se introduce en este caso, es el registro de ruido, que tiene la siguiente estructura:
+El último modo, el modo 4, tiene como función generar ruido como añadido a los demás modos. De los dos registros reservados para el modo, el que controla la duración y el volumen sigue el mismo formato presentado anteriormente. El registro diferente que se introduce en este caso, es el registro de ruido, que tiene la siguiente estructura:
 
 \begin{itemize}
 	\item Bit \{F\}: En caso de estar activo el bit, ``resetea'' el sonido.
@@ -331,7 +331,7 @@ El último modo analógico, el modo 4, tiene como función generar ruido como a�
 	\FloatBarrier{}
 \end{itemize}
 
-\subsubsection{Modos digitales}
+\subsubsection{\textit{Direct Sound}}
 Se introdujeron dos nuevos modos con respecto al sistema de audio de la Game Boy Color. Estos modos, denominados A y B, hacen uso de los dos DACs (Conversor Digital Analógico) de 8 bits incorporados en la consola. Para utilizarlos se distinguen dos tipos de registros, aquellos reservados para indicar los datos a usar y otros para configurar los modos, los registros de control.
 
 Los registros de datos de los modos A y B, se encuentran en las regiones 0x040000A0 y 0x040000A4, respectivamente. El sistema que implementa la Game Boy Advance, denominado Direct Sound, coge los primeros datos que encuentra en el buffer (FIFO), es decir, los 8 bits menos significativos del registro de 32 bits, que serán los primeros en reproducirse. Para activar la salida de sonido de estos modos, y también los modos 1-4, se utilizan tres registros de control. El primero está en 0x04000080 y tiene como función activar y controlar de forma global el volumen de los modos 1-4. Tiene el siguiente formato:
