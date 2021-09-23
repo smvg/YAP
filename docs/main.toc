@@ -74,10 +74,10 @@
 \contentsline {chapter}{\numberline {5}Conclusiones del proyecto}{93}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Trabajo futuro}{93}{section.5.1}%
 \contentsline {chapter}{Bibliografía}{94}{figure.caption.121}%
-\contentsline {chapter}{\numberline {A}Contenido adicional}{97}{appendix.1.Alph1}%
-\contentsline {section}{\numberline {A.1}Estructura del proyecto}{97}{section.1.Alph1.1}%
-\contentsline {section}{\numberline {A.2}Personajes}{98}{section.1.Alph1.2}%
-\contentsline {section}{\numberline {A.3}Registros}{102}{section.1.Alph1.3}%
-\contentsline {section}{\numberline {A.4}Escenas}{105}{section.1.Alph1.4}%
-\contentsline {section}{\numberline {A.5}Automatización mediante scripts de BASH}{110}{section.1.Alph1.5}%
-\contentsline {section}{\numberline {A.6}Funciones de la BIOS}{111}{section.1.Alph1.6}%
+\contentsline {chapter}{\numberline {A}Contenido adicional}{97}{appendix.alph1.Alph1}%
+\contentsline {section}{\numberline {A.1}Estructura del proyecto}{97}{section.alph1.Alph1.1}%
+\contentsline {section}{\numberline {A.2}Personajes}{98}{section.alph1.Alph1.2}%
+\contentsline {section}{\numberline {A.3}Registros}{102}{section.alph1.Alph1.3}%
+\contentsline {section}{\numberline {A.4}Escenas}{105}{section.alph1.Alph1.4}%
+\contentsline {section}{\numberline {A.5}Automatización mediante scripts de BASH}{110}{section.alph1.Alph1.5}%
+\contentsline {section}{\numberline {A.6}Funciones de la BIOS}{111}{section.alph1.Alph1.6}%
